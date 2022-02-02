@@ -332,5 +332,20 @@
 
 
 
+
+<script class="next-config" data-name="valine" type="application/json">{"enable":true,"appId":"eyfHRvcYIATvTSJhkXCKAHxN-MdYXbMMI","appKey":"0HL8w8Jmv61ivuPgUuUcMJ8k","serverURLs":"https://eyfhrvcy.api.lncldglobal.com","placeholder":"评论区……昵称，邮箱，网站都不填是佚名哦~（都是选填的）","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[],"el":"#valine-comments","path":"/tags/%E6%B8%B8%E8%AE%B0/"}</script>
+<script>
+document.addEventListener('page:loaded', () => {
+  NexT.utils.loadComments(CONFIG.valine.el)
+    .then(() => NexT.utils.getScript(
+      'https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js',
+      { condition: window.Valine }
+    ))
+    .then(() => {
+      new Valine(CONFIG.valine);
+    });
+});
+</script>
+
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"model":{"jsonPath":"/live2dw/assets/wanko.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"log":false});</script></body>
 </html>
