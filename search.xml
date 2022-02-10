@@ -53,7 +53,18 @@
   <entry>
     <title>小黑屋（黑名单）</title>
     <url>/posts/2531786604.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="887a90779afddfeaf7e36826bcbd86212dc80ab8cc182358c7696e9ccaa1f94d">51d714a1c2f3105f7d25e4a48f156d974fa732cc73622346f303fd2b5f9b86735c8e638e81d8b177f7a74182b45b73c302c53d8367604c2268b366eb8316e70ed3c2e30ebed9a029989a56347531a35fa0f6aa2826001a2209b8d55e121c80830dfe5e379f3bf41a3bb0156aed3f02a103b81742d6cbe1300b2635bd5f1d385aecea30e2747c9475295ab0d3ae0da83032cfefdf22f75195f1c925d0c887dcc9922c7862b90dd64d4be6e05408140e8435f8e7fdfe3cfdc90962e162ace66da0b9cc006324faf43aba53fb46c0bd0027596905ff79072b6779eafb87953e02789670f27c1227706dd9ff8283e5f3ec37474984b380afff9110721bb87dbaa188b946ad5963b94da49c89167fd5aaf73ee0121b71869829ebdc0cf78413234b78</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这篇文章设置了密码，请点击【阅读全文】以阅读</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
   <entry>
     <title>言射源码博客1.0发布会</title>
