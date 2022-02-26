@@ -115,8 +115,8 @@
 <p>PS：别问我为什么这次图床够用了，因为我自己搭建了一个</p>
 ]]></content>
       <tags>
-        <tag>源码博客</tag>
         <tag>发布会</tag>
+        <tag>源码博客</tag>
       </tags>
   </entry>
   <entry>
@@ -169,9 +169,9 @@
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <tags>
         <tag>公告</tag>
-        <tag>发布会</tag>
         <tag>博客</tag>
         <tag>源码</tag>
+        <tag>发布会</tag>
       </tags>
   </entry>
   <entry>
