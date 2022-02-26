@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xys-blog.cf/posts/1793860868.html</loc>
+    
+    <lastmod>2022-02-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xys-blog.cf/posts/918071535.html</loc>
     
     <lastmod>2022-02-26</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://xys-blog.cf/baidu_verify_code-Zr2KbkFRGc.html</loc>
     
     <lastmod>2022-02-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xys-blog.cf/posts/1793860868.html</loc>
-    
-    <lastmod>2022-02-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
