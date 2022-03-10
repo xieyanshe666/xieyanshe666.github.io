@@ -12,5 +12,5 @@ Disallow: /vendors/
 Disallow: /fancybox/
 Disallow: /categories/
 
-Sitemap: http://xys-blog.cf/sitemap.xml
-Sitemap: http://xys-blog.cf/baidusitemap.xml
+Sitemap: https://xys-blog.cf/sitemap.xml
+Sitemap: https://xys-blog.cf/baidusitemap.xml
