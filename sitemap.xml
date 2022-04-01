@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/lib/jquery_lazyload/README.html</loc>
+    <loc>https://xys-blog.cf/lib/jquery_lazyload/bower.json</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/lib/jquery_lazyload/bower.json</loc>
+    <loc>https://xys-blog.cf/lib/jquery_lazyload/README.html</loc>
     
     <lastmod>2022-02-18</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/lib/three/package.json</loc>
+    <loc>https://xys-blog.cf/lib/three/renovate.json</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/lib/three/renovate.json</loc>
+    <loc>https://xys-blog.cf/lib/three/package.json</loc>
     
     <lastmod>2022-01-09</lastmod>
     
@@ -293,6 +293,13 @@
   </url>
   
   <url>
+    <loc>https://xys-blog.cf/tags/%E5%B0%8F%E5%AD%A6%E5%A5%A5%E6%95%B0/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xys-blog.cf/tags/%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -328,13 +335,6 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/tags/%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2022-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xys-blog.cf/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,7 +356,7 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/tags/%E5%B0%8F%E5%AD%A6%E5%A5%A5%E6%95%B0/</loc>
+    <loc>https://xys-blog.cf/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
