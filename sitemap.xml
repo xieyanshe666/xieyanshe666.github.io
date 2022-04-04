@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xys-blog.cf/posts/4093402486.html</loc>
+    <loc>https://xys-blog.cf/posts/3561598079.html</loc>
     
     <lastmod>2022-04-04</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/posts/3561598079.html</loc>
+    <loc>https://xys-blog.cf/posts/4093402486.html</loc>
     
-    <lastmod>2022-04-03</lastmod>
+    <lastmod>2022-04-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -388,12 +388,5 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://xys-blog.cf/categories/%E4%BD%9C%E6%96%87/</loc>
-    <lastmod>2022-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
