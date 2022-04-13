@@ -38,6 +38,7 @@
     <url>/posts/297322009/</url>
     <content><![CDATA[<div class=".article-gallery"><h3 id="1map简介"><a class="markdownIt-Anchor" href="#1map简介"></a> 1，map简介</h3>
 <p>map是STL的一个关联容器，它提供一对一的hash。</p>
+<span id="more"></span>
 <p>第一个可以称为关键字(key)，每个关键字只能在map中出现一次；<br>
 第二个可能称为该关键字的值(value)；</p>
 <p>map以模板(泛型)方式实现，可以存储任意类型的数据，包括使用者自定义的数据类型。Map主要用于资料一对一映射(one-to-one)的情況，map內部的实现自建一颗红黑树，这颗树具有对数据自动排序的功能。在map内部所有的数据都是有序的，后边我们会见识到有序的好处。比如一个班级中，每个学生的学号跟他的姓名就存在著一对一映射的关系。</p>
