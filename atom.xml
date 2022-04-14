@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-04-13T13:00:52.639Z</updated>
+  <updated>2022-04-14T11:50:15.923Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>平凡（改编自朱自清的《匆匆》）</title>
+    <link href="https://xys-blog.cf/posts/3919692788/"/>
+    <id>https://xys-blog.cf/posts/3919692788/</id>
+    <published>2022-04-14T11:50:15.000Z</published>
+    <updated>2022-04-14T11:50:15.923Z</updated>
+    
+    <content type="html"><![CDATA[<div class=".article-gallery"></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;/div&gt;&lt;script src=&quot;https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js&quot;&gt;&lt;/script&gt;&lt;script&gt;if </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>c++ map用法总结</title>

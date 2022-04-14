@@ -34,6 +34,16 @@
       </tags>
   </entry>
   <entry>
+    <title>平凡（改编自朱自清的《匆匆》）</title>
+    <url>/posts/3919692788/</url>
+    <content><![CDATA[<div class=".article-gallery"></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+  </entry>
+  <entry>
     <title>c++ map用法总结</title>
     <url>/posts/297322009/</url>
     <content><![CDATA[<div class=".article-gallery"><h3 id="1map简介"><a class="markdownIt-Anchor" href="#1map简介"></a> 1，map简介</h3>
