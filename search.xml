@@ -11,8 +11,8 @@
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
       <tags>
-        <tag>目录</tag>
         <tag>公告</tag>
+        <tag>目录</tag>
       </tags>
   </entry>
   <entry>
@@ -1373,8 +1373,8 @@ emmm……<br>
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
       <tags>
-        <tag>公告</tag>
         <tag>简介</tag>
+        <tag>公告</tag>
       </tags>
   </entry>
 </search>
