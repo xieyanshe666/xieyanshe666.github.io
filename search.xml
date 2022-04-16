@@ -1,31 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/posts/3632233996/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="34068510df80e7b95daa5632b3e2584789964ba84ef70b35b4f16f1ca84d48a3">e5b37e53e2c46a3fea5e2687f691dfa15feaff5bfc6d26b16bdc59deebec261a376088226ab9b683a6c54e7826a0fd8ba561b718446796e614e044370d36a69fd49499bfd31dcf13503ac7341c36a535739ec7e5633c726c49b5880d6756d0628f4cc5d5448add53d08f846338843a8bfe5a5ab66419ed2268dbf9b26d641d368642f319cf253ee208606d91057979c3a682ec8f1e8718779c7e005ae41b7fdd0153bb426b0255b78281c8ca450bd22120b482ff57ee4b346abaea2f896a3748519ce7c9fa5b0a056ce4b99574564efe8ceca2b6c0f78b544502aaac5523ff2c33dc64e6101b6d8b166444ab0729dbc2124f68516dabdd70c4d63a057f70b9be185afc23516710656d7e970513db09428a6b86d265d975fd81fc9ebb5fee31b523065384b76d6a42500e8b8562092587b5dc7bceb2b5511cdc8c84631273394021bde4f0bcc8955f5a74432d89c28cdd8ef37e0185bd5447cf803292f524a3417abbd3710869cee72aa9db451054ecedb9bd2b585c7dec1629967f0061085e5fd3f6533f07ae7d7e34ca0a2fb157895bcb55691b9614e782daf1781a292bead161acb855ded5f1cb00d78b110c8cb895152b184b633fd8cbd60fcecea80abd503dc8fa64ae75c7d75250486543952490a93919d11d28e8417fdd318f65ba72cfdac06d795fd8d83a12bb13eaad9e2ea9d8990d9757da9be1212c5b6eb57b9e423ed72db4428b5ef46b5f7af7565fcf2092036c53841fe0a79cb646e2d0d275fa65554c6b80fd6fc1919c16fa696f49f5405221e5ba23ba2a0882a5f7b5462e1ee859c1e54701c8e2c53b97f2c78a6ddb0d2bf057c7daa6824d059a71b32b1cc4aee87daa4648818d3ab49887c84d116d4e2ed96a126aaa982a434901cd66ab111e0de35cae840446398cbc3ab9ca469d8c58546a672bdb8bde59c934def672038a3d3ee16b1160bd55e84c1996d57c677c3bc972034638e55dae38ba964e3abe3e786fbf2e23d33d675944747422553539c2addf43827127ccbc1a9addd05dcc21df53951b7a2c5b2ab042cfa8e5bb2ca5ff1847fc44098ef44f492a4d57902a7b3e582d06195e7c987eea44199bd426660e3ed9738cc41124104e142a1b5dfc0627da12f9377683cf0b4aa7f189cd3e719d0c3c4117c03c4cb55fa04bb80f76fdc53dad8b0638f3410549752d9e5416cfddcd431cc7eff695cb1658eee95807169e06cf12d1035d80daf987c12177a7e33263a7c5c3c9ba2fa32eb5c789cdc8fdebc9a528d213a7592796155cadf919116fd368da0d2638f98566c1c4d64f0ff2bea3090dedfd6f5161533ca29242b3fd4e9f07447e27de998b97340df1c3256bed1cecb47ff36d27ae69e3a27cbd5cd86e73f4ff5c88c5009dfc4025c1198569363fe3508f88767368e25984d072793b549708b58a66ef7cb461076bbf75c9b4bac0206fb315dffa0d35a153d67d1771a85c4330ad99f844e8a273ddb688cf920e3956ebb993c324b142097522f808c12e16e40196d9d06b9b5022d01f9311311c8673bd16f0f3da72ff8161b9ba362188c71ae2d2c6bf16dad5a9728ec8e11af1fd0ebd0a11f21a0f41ca7f67daf5ce53a2ebc155b118675692e8833245ec543975a330f249da287bd12e983596ccdeb0604e9b4ffe546fc5da2f4fe38167f65c428c35ce01fed0f534a7a6c6efcbef181edd58420170fa70eb84711ba911b7b4c46d3b96a825fdd5fcf4b26f4cf3e1e9df0d862701ab1569b3869d13881a6fcc66a3dddebd8474d14c5c922c5d0a6cae57ba4050aba9a5049fcb90071245df6c71486463f21f434697314ef9847ba0a8992ced3a8a59c958385e939407c4a41484679267ad5cc319c9bc99fb85c0e49b877864257f52ccf018dd9e4b98fc9250c82518198a4065de999cc401ed74700758a5d8a8e55e39cd3206567c9b5798db8e6f4a38b0df21efe5249ad3033562cc693a434506269a032813f70119c1ab32c0c3b8d6967b8906b9583bb87a018877b37f43cb84129157998162ca93deeeb1b2a9270716bea0257cf5e92be44be92caabbebacae53b44d48683fa17b7bc23e53f98a502477b4e2462afaa06913c13bdb15b602c3bfd45f042619e52684e750836e45fa50b968ba561b0d245aca38d0d5e4212e63e4bc13fa85a87f4f162737af8d7795922cd1b5f3e8b155081f2883f4253a5b3b364fe0f4359114a89e1e233b2cff016d1caadc6f41f3d7c6f8a116f71bbc5d180f783e315885e695fea5a9d7f684aa57544c6bf3a781695d34556eaac58ec7cf06a01ae31f7e427b4ff5451c545f3fee985757ac08108e6a50bba2f2bac45f8a82c06c2a307a8abad3ed22330c38da683061357ab1513db9e473125ee489114f066b275e2070ccd0932085d11727e8417f449b5ecd2bf0ff32d640af51f8570a1dc004a11044d9810c36753d39e3be98ef009fd425c14122c3b9868946ad8526da7b0f94c25a0ad282328065cef3759aa8288708a3adb4d980ababdd69ef3aa850fd84b22d8fd7da44232791a9673529483a781073a84288628f88501257493b3f3aa84c427dcdb6e1497d7edcb486588a504d27a7796fc94cbf3c08f09dca16650f2ada76f17791f8dcba6df0807701b26c6c220ed72c6905fea5be244b1d6ebb677c4dafa1234bf9675131efbca36a1a657898b1bd44b7e790d00a909bd1a7482fad9c7b8697d77434f50bc91189954cad50875d0acfacd75b917ab04befc4c749d4326c0ef95d4f7d4d9934e934019c27cb235e4c778df9c227995d72ebfd195d471de469b1ffc4dc90c39331b88d9ddfbb71b5c68ecd6204e78f5ab88fe1976aa1398f2989e32cd28b105d0ce919d64af99b5ccecb5235f1f67955f050b4b51fd3222aef5b05e8fde748519e0bd3f64055bed2fbf27459a7bdf7dca914656dd81506642866d32baff097ee11cb894ef0d6ee6995e269863583ab339f9ac99970c4826d05dd6842013a7f6c0300aeb8cfc53ecf99b71c0fe95ff0b8b836f12e83ed205905d87b14a9efd5a5d24493d2c3c98be16b5c32f25b923ffdcfd428daf6f49b94c8d914d1f2b7a8df49576d258d90534610e6a7da5a75c2c79b5b8a1329d5a3e37a2b41dec7f9b793785648df2462bf5be036d2bfdacea4ec88cd66d6b8538c8c072431b6ca0610c5f71674ee9687fca85962fa6ca675bb574af7a748473cd3dc720789e4a7c5882f6d2699d69503436bf7a6fb55c696da9808c6c2cb6143e3505782bee650219da1935fd2392f8ffd9a31f0ed4a2ce3d5af57ded06fb4cdc3065ccc345dd975b9f07382cf998532d68c9dc9ef17520bdbfe8d10ba682de61349d8d78e5bd58a3277ff983d10f87c60508d37c4edbc81e856b09bcee9fa7808215365cf072baeee3f343cd8dba498181486f28a881225979bf31cd09f10878dbf39d442e9d1e2dc8376ceb37eee58d054e06c14055644613c953a82fc3c7d2a5fdb7bd2f3aba93cacced2781925ce54064f23646e96217fb7c94e27e0d66df05b7088b94ca88882b7aebaa260c3d5de4f262fec068fb86322ffd3e31f1b3d421ff5ffe97523553334ba505238539155a0a76e658be25ce4f6ce961ea4674841a3e6f1247eab428fa0168d9ae8fde915fdb8e7e2f3772e40df601f0aad812ba4eee8316b9d42133eda4ce5a8f1cc61a4c40015da054ad5e7f65e9d9408c4c59ee3e442552700cbffd13906ed24cae6734c11ec27ae556859bceca6453c9b7db4d14964f3f5b586ea3cc0294c7cbbdcad1e522df55cf8bcf4cdfca3f504b6f3c51cca9319e73d6fb9bcd4bd18967adcb1b6a2552bc5c6aef69d0feaa131f7bc31a70699e8ed5a7381babc2c0ee10175d1240863806a80cace77c98064bb7fa2b93bf088bbaeb5e78aea9205948723e045e3d774e0a3f89b4b2075ca6e4dd8fbf5e229b2eeb00c797bfdd55bc2c8d0aee36ad2f237d74d8f96565d6f652dc94722bd2c008094e4ab68b47647340fe5be54468147225a6e2223a0ce1682f0d26f35c8056daf6baa5925eebfc01f1d79259c4c2c33d3a315668c6f76e2ed65ebb103fe2375dc967f3d8fef5e3dffc2e15c7867158358c2133ef5e8c8c63de56f2fac33bf40a1f7b5502c8a9554f66731b256b6b3401ff346265cf4020aacd37c5156635b85519f7691d2bf596df5dff3bdf7b7bf6952dedbc83e87920b25698651b4299f1da2a83f7d593eb969e824f67e8ca1c1a04494662e71c8a0099645f4b30c6361d074b120d0eea4049a45818fe6e5218239c9a4e649a95a8272319bc5d2f6af9bd9fbd3e76e79fd2f4b17edddea6245144f04f1deb68c7a10f5bd5ef0bd4ea057f12995c9c00442de282a03122201c9ff78c192868709e5c71f24a22d28af77685a431c4e604bd799d7b08127c0187df423d8df1d27e0228147939eb427248d063b12365ac6c6ae97d4205410c2921f2ea294980e4e9b3e61c9d07cc9d4f4e000d3727070498294ac0e4ac21d749d9bbf60398506063ca67971139207ac30f58aeec7c8ac57089d75f6433b4f052cd5715e624a03a7f8e37534a2df9e55431e0ec1329d6fee6ad1dd2b9ddf7621cb5ae597a0ab78694a9ebf005237e2c5d46742b8e581efc919c80a11003b2d7c90080d08fb24ddf8b08cfbdd12b38d01d974fc7e480db8b1be1a2ee6e6dbb2eaa907ee42d15e486b59badb88f3c21c1a02755bf2f2af2dec57e94c49d146f2bf5c26b20bb727cdc98898558f2fe2ec431ed3828cc976d7e9aefdcbadcd92e4881063c34e97fd91f214c6861137fc016c3fa6b3a53a1e075c026e38f23226e188a6b5a79ed57b32eb0d127d2bade3a2ee9073e74600acd13a673922abc59820693da887f151b6f13d06256929a91ff8a1f34ef2948ffd66f0bfc0d51af7843db7413ca43f444bba9d9d53751ebc4c6349ad28cc02cbd0afa6c377de243562d0e0735d4e21b09c0733c05e300ba8fe2725190855e42a9684d45303bc4ba06497cd745d8b186191987a418e0c82c5562f09175a9e0cfa8f40413e3970ff41c3cab4b0f56fc6cb45da90dff97afe6299c9d84235b5d8a690</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这篇文章设置了密码，请点击此处以输入</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-  </entry>
-  <entry>
-    <title>testtest</title>
-    <url>/posts/3966352178/</url>
-    <content><![CDATA[<div class=".article-gallery"><iframe width="500" height="300" frameborder="0" src="https://hammyhome.com?hh=('names!%255B'apPc4Pw1bZ5Z3Z5Z5Z5Z3Z3Z3Z6Z6Pc1Pc1Pwb1Pwb1Ph'%255D~props!%255B('bp!'nonePbSC0C0C0PxvM0.95~z!-27.81jRHE1DABBPbhvj1.45L0dIqQIKKKIqQi-2_O-2M1L3.14W%252C%252CT-1Vk%252CT1VO2_O2VWi2M-1L0Wi-2M-1L-R7Wi0Vd*T0M2L-R7d*iU17N32N7N85N87YU89N9N56N46N22YuJvG-uJvj0.9HXIQQQKIXIXPo!'c1g2gf%252Csngh%252Cbe')%255D)*IKqG)%252C('x!H~SI%252C%2523JBFBFBFIQqIADADADIQqIK7FQPwlv.1~nhKFFL~rz!M~y!N%252C0.Ok*TP'~Q00R1.5Sc!'%2523T%252C*iURMRdPbh!'0.VM1LR7WHQq*XEC76QKYPbSKFBAFi-ZPt_M0L0dHKKKg%252Cci'GjG0M-kHK3838*qKQu1.15_Hv!0%2501vuqkjigd_ZYXWVUTSRQPONMLKJIHG*_"></iframe>
-<iframe width="500" height="300" frameborder="0" src="https://hammyhome.com?hh=('names!%255B'apOc3Op2Or2Or1Oc7Oc1Oc1_3Ow2aOh3Owb1OhcOp2Ob1OhOhOhOhOhOhOchOchOc9_3OswOp1Or2Op2ObrOchOp1Op2Ow2aOr2Op1Oh2OhOb2OswOr1OhOhcOb1Oh_4Ot5_6Ot1Ot5_3Ot5_3'%255D~props!%255B('bp!'noneObkC0C0C0Ox!vK4.99~z!vRG2jvPHCCCC%25222j-0Z2KvL-N3K0LN1j-3PHCCCCSObh!'0.89i95i91i92%252C1i89i97%252C1%252C%252B0jvPHSS%25220j0PHSS%2522vK-2L-YWvKv%253AIW0jv.45XRMW0j0PXMRW3.15K1.9XBFBFBFJMRJADADADJMRJS7FROwl!0.1~nh!6G0K1.75%25202j0Z2j0g121~nh!9G0K-0.9HEC76MJRRMJS7F%2524fu%252Cbe%252CruW0K2V*Q1K-2.1V*Q2j1.9V*Q2j1PV*Q1j1PV*Q0P6K-2.29%25253.3K0.68%25251j2PHSCCCCObh!'TTTTTTTT-0.%252B4K-2XMRIIW4KvLYW2.67K2P%25260K3q1K3L-N2j3Z1K3PHSSSW3.3K2.7%25253K5q0j4Z2.75K3P4XRMW3K4L-N2K4q0.25K4P1XAF5719JRC7RW3K6.1V*Q1.25K4%252FMROnf!60~nh!9G1K4P1%25262K5LN2K5.9V*ch%252CfuW3K6%25200K3g59~nh!9G0j1.9V*QvK1L-YIUvj2PLYIW-3K3L-d-4K3L-Y%252CU-4K4XSSSI%252CIW-4K5L3.14HSSRIW-3K4Ld4K3LY%252CU4K2XMRIW-2K4LdvK4XMRIIWvK5%253A')%255D)*SJRRMJEC76%2524c1%252Cc2%252Ccf%252Csn%252CG)%252C('x!H~kIJSSRJ%252C%2523K~y!L~rz!MRSN0.79HE1DABBJC2B475WO'~P.5Qch%252CbeWR00SFFT-0.1%252CU%252C%252CIWVHEC76RW'GXL0HY1P7HMRIZPHA7A7SW_Ot3Otd1P7HS3838IUg%252FA39347Onf!i%252C0.jPKkc!'%2523qPH82S82Wv-1%2520XSRRIJMRJRMW%2522SObh!0G%2524MJEC76MOo!'%2525XS9933W%2526HSSRJ3838SW%252B1ObkSFBAFW%252FP4XC1B575J%253AL-3.14HMRI%2501%253A%252F%252B%2526%2525%2524%2522%2520vqkjigd_ZYXWVUTSRQPONMLKJIHG*_"></iframe></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+    <title>文章目录</title>
+    <url>/posts/2044296166/</url>
+    <content><![CDATA[<div class=".article-gallery"><p>文章目录：<a href="https://xys-blog.cf/archives/">https://xys-blog.cf/archives/</a></p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
+      <tags>
+        <tag>目录</tag>
+        <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>学校游记4（未完待续……）</title>
+    <url>/posts/20400546/</url>
+    <content><![CDATA[<div class=".article-gallery"><h2 id="2022413"><a class="markdownIt-Anchor" href="#2022413"></a> 2022.4.13</h2>
+<p>《我和我的同住》<br>
+《我和我的同住》<br>
+《我和我的同住》</p>
+<span id="more"></span>
+<h2 id="2022414"><a class="markdownIt-Anchor" href="#2022414"></a> 2022.4.14</h2>
+<p><a href="https://xys-blog.cf/posts/3919692788/">look!</a></p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>游记</tag>
+        <tag>学校</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>平凡（改编自朱自清的《匆匆》）</title>
+    <url>/posts/3919692788/</url>
+    <content><![CDATA[<div class=".article-gallery"><center>《平凡》</center>
+<p>燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。但是，聪明的，你告诉我，我们的满分为什么一去不复返呢？——是有人偷了他们罢：那是谁？又藏在何处呢？是他们自己逃走了罢：如今（现在）又到了哪里呢？</p>
+<span id="more"></span>
+<p>我不知道他们给了我多少满分，但我的手确乎是渐渐空虚了。在默默里算着，八千多满分已经从我手中溜去，像针尖上一滴水滴在大海里，我的满分滴在成绩的流里，没有声音，也没有影子。我不禁头涔涔而泪潸潸了。</p>
+<p>去的尽管去了，来的尽管来着；去来的中间，又怎样地平凡呢？早上我起来的时候，小屋里射进两三方斜斜的太阳。太阳他有脚啊，轻轻悄悄地挪移了；我也茫茫然跟着旋转。于是——洗手的时候，满分从水盆里过去；吃饭的时候，满分从饭碗里过去；默默时，便从凝然的双眼前过去。我觉察他去的平凡了，伸出手遮挽时，他又从遮挽着的手边过去，天黑时，我躺在床上，他便伶伶俐俐地从我身上跨过，从我脚边飞去了。等我睁开眼和太阳再见，这算又溜走了一日。我掩着面叹息。但是新来的满分的影儿又开始在叹息里闪过了。</p>
+<p>在逃去如飞的满分里，在千门万户的世界里的我能做些什么呢？只有徘徊罢了，只有平凡罢了；在八千多日的平凡里，除徘徊外，又剩些什么呢？过去的满分如轻烟，被微风吹散了，如薄雾，被初阳蒸融了；我留着些什么痕迹呢？我何曾留着像游丝样的痕迹呢？我赤裸裸来到这世界，转眼间也将赤裸裸的回去罢？但不能平的，为什么偏要白白走这一遭啊？</p>
+<p>你聪明的，告诉我，我们的满分为什么一去不复返呢？</p>
+<hr>
+<p>往期推荐</p>
+<ul>
+<li><a href="https://xys-blog.cf/posts/746134704">《红岩》梗概</a></li>
+<li><a href="https://xys-blog.cf/posts/3479680266">学校游记3</a></li>
+<li><a href="https://xys-blog.cf/posts/336091895">小学数学必背公式</a></li>
+<li><a href="https://xys-blog.cf/posts/1563617092">小学奥数公式</a></li>
+<li><a href="https://xys-blog.cf/posts/1793860868">学校游记2</a></li>
+</ul>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>文章改编</tag>
+        <tag>趣文</tag>
+      </tags>
   </entry>
   <entry>
     <title>c++ map用法总结</title>
@@ -118,6 +157,81 @@
       </tags>
   </entry>
   <entry>
+    <title>testtest</title>
+    <url>/posts/3966352178/</url>
+    <content><![CDATA[<div class=".article-gallery"><iframe width="500" height="300" frameborder="0" src="https://hammyhome.com?hh=('names!%255B'apPc4Pw1bZ5Z3Z5Z5Z5Z3Z3Z3Z6Z6Pc1Pc1Pwb1Pwb1Ph'%255D~props!%255B('bp!'nonePbSC0C0C0PxvM0.95~z!-27.81jRHE1DABBPbhvj1.45L0dIqQIKKKIqQi-2_O-2M1L3.14W%252C%252CT-1Vk%252CT1VO2_O2VWi2M-1L0Wi-2M-1L-R7Wi0Vd*T0M2L-R7d*iU17N32N7N85N87YU89N9N56N46N22YuJvG-uJvj0.9HXIQQQKIXIXPo!'c1g2gf%252Csngh%252Cbe')%255D)*IKqG)%252C('x!H~SI%252C%2523JBFBFBFIQqIADADADIQqIK7FQPwlv.1~nhKFFL~rz!M~y!N%252C0.Ok*TP'~Q00R1.5Sc!'%2523T%252C*iURMRdPbh!'0.VM1LR7WHQq*XEC76QKYPbSKFBAFi-ZPt_M0L0dHKKKg%252Cci'GjG0M-kHK3838*qKQu1.15_Hv!0%2501vuqkjigd_ZYXWVUTSRQPONMLKJIHG*_"></iframe>
+<iframe width="500" height="300" frameborder="0" src="https://hammyhome.com?hh=('names!%255B'apOc3Op2Or2Or1Oc7Oc1Oc1_3Ow2aOh3Owb1OhcOp2Ob1OhOhOhOhOhOhOchOchOc9_3OswOp1Or2Op2ObrOchOp1Op2Ow2aOr2Op1Oh2OhOb2OswOr1OhOhcOb1Oh_4Ot5_6Ot1Ot5_3Ot5_3'%255D~props!%255B('bp!'noneObkC0C0C0Ox!vK4.99~z!vRG2jvPHCCCC%25222j-0Z2KvL-N3K0LN1j-3PHCCCCSObh!'0.89i95i91i92%252C1i89i97%252C1%252C%252B0jvPHSS%25220j0PHSS%2522vK-2L-YWvKv%253AIW0jv.45XRMW0j0PXMRW3.15K1.9XBFBFBFJMRJADADADJMRJS7FROwl!0.1~nh!6G0K1.75%25202j0Z2j0g121~nh!9G0K-0.9HEC76MJRRMJS7F%2524fu%252Cbe%252CruW0K2V*Q1K-2.1V*Q2j1.9V*Q2j1PV*Q1j1PV*Q0P6K-2.29%25253.3K0.68%25251j2PHSCCCCObh!'TTTTTTTT-0.%252B4K-2XMRIIW4KvLYW2.67K2P%25260K3q1K3L-N2j3Z1K3PHSSSW3.3K2.7%25253K5q0j4Z2.75K3P4XRMW3K4L-N2K4q0.25K4P1XAF5719JRC7RW3K6.1V*Q1.25K4%252FMROnf!60~nh!9G1K4P1%25262K5LN2K5.9V*ch%252CfuW3K6%25200K3g59~nh!9G0j1.9V*QvK1L-YIUvj2PLYIW-3K3L-d-4K3L-Y%252CU-4K4XSSSI%252CIW-4K5L3.14HSSRIW-3K4Ld4K3LY%252CU4K2XMRIW-2K4LdvK4XMRIIWvK5%253A')%255D)*SJRRMJEC76%2524c1%252Cc2%252Ccf%252Csn%252CG)%252C('x!H~kIJSSRJ%252C%2523K~y!L~rz!MRSN0.79HE1DABBJC2B475WO'~P.5Qch%252CbeWR00SFFT-0.1%252CU%252C%252CIWVHEC76RW'GXL0HY1P7HMRIZPHA7A7SW_Ot3Otd1P7HS3838IUg%252FA39347Onf!i%252C0.jPKkc!'%2523qPH82S82Wv-1%2520XSRRIJMRJRMW%2522SObh!0G%2524MJEC76MOo!'%2525XS9933W%2526HSSRJ3838SW%252B1ObkSFBAFW%252FP4XC1B575J%253AL-3.14HMRI%2501%253A%252F%252B%2526%2525%2524%2522%2520vqkjigd_ZYXWVUTSRQPONMLKJIHG*_"></iframe></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+  </entry>
+  <entry>
+    <title>我的心愿（六下第四单元习作）</title>
+    <url>/posts/4093402486/</url>
+    <content><![CDATA[<div class=".article-gallery"><p><a href="0.jpeg" title="其实,有些愿望不在于实现,想想也是美的(来源百度,侵删)" class="gallery-item"><img src="/.cf//0.jpeg" alt="其实,有些愿望不在于实现,想想也是美的(来源百度,侵删)"></a></p>
+<center>《我的心愿》</center>
+<p>我的心愿是什么？</p>
+<p>让我轻轻告诉你。</p>
+<p>让地球变得美丽，</p>
+<p>小河，不再浑浊，变得清澈；</p>
+<p>大地，不再荒凉，变得生气；</p>
+<p>天空，不再阴霾，变得灿烂。</p>
+<p>让无家可归的小动物拥有乐园；</p>
+<p>让乱丢的垃圾拥有各自的归宿；</p>
+<p>让人类与大自然和谐相处。</p>
+<p>保护环境，人人有责。</p>
+<p>我的心愿是什么？</p>
+<p>让我悄悄告诉你。</p>
+<p>让疫情快快过去，</p>
+<p>病毒，不再致病，变得有益；</p>
+<p>医生，不再疲惫，变得充沛；</p>
+<p>我们，不再惊慌，变得安定。</p>
+<p>让我们的家园从此再没有疫情；</p>
+<p>让每一个人都拥有健康的身体；</p>
+<p>让我们一起携手共克时艰。</p>
+<p>坚定信心，同舟共济。</p>
+<p>我的心愿是什么？</p>
+<p>让我慢慢告诉你。</p>
+<p>让我们努力进取，</p>
+<p>过去，不再留念，变得坦然；</p>
+<p>现在，不再退怯，变得勇敢；</p>
+<p>未来，不再迷茫，变得期待。</p>
+<p>让我们一起苦心励志心怀感恩；</p>
+<p>让我们不忘初心归来仍是少年；</p>
+<p>让我们回首过去展望未来。</p>
+<p>以梦为马，不负韶华。</p>
+<hr>
+<p>往期推荐</p>
+<ul>
+<li><a href="https://xys-blog.cf/posts/746134704">《红岩》梗概</a></li>
+<li><a href="https://xys-blog.cf/posts/3479680266">学校游记3（未完待续……）</a></li>
+<li><a href="https://xys-blog.cf/posts/336091895">小学数学必背公式</a></li>
+<li><a href="https://xys-blog.cf/posts/1563617092">小学奥数公式</a></li>
+<li><a href="https://xys-blog.cf/posts/1793860868">学校游记2</a></li>
+</ul>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>言射学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>常见网络用语大全</title>
+    <url>/posts/3791692339/</url>
+    <content><![CDATA[<div class=".article-gallery"></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+  </entry>
+  <entry>
     <title>《红岩》梗概</title>
     <url>/posts/746134704/</url>
     <content><![CDATA[<div class=".article-gallery"><p>1948年，在国民党统治下的重庆处在黎明前最黑暗的时候为了配合工人运动，重庆地下党工运书记许云峰命甫志高建立沙坪书店，作为地下党的备用联络站。甫志高为了表现自己，不顾联络站的保密性质擅自扩大书店规模，销售进步书刊。</p>
@@ -134,6 +248,640 @@
         }</script>]]></content>
       <tags>
         <tag>言射学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>学校游记3</title>
+    <url>/posts/3479680266/</url>
+    <content><![CDATA[<div class=".article-gallery"><h2 id="202237"><a class="markdownIt-Anchor" href="#202237"></a> 2022.3.7</h2>
+<p>最近网站出现了一些问题，我们正在修复，带来不便麻烦谅解。</p>
+<span id="more"></span>
+<h2 id="2022310"><a class="markdownIt-Anchor" href="#2022310"></a> 2022.3.10</h2>
+<p>好好好，简要说明一下最近遇到的一些问题<br>
+那个不就是我搞了个微信公众号嘛<br>
+如何月入让我找一些学习资料<br>
+我照办了<br>
+然后就侵权了<br>
+导致之前的文章全部被删掉<br>
+而且每次发文章都要冒着风险<br>
+所以……<br>
+辜负大家了……<br>
+抱歉……<br>
+另外……<br>
+他们可能查到这个网站上<br>
+所以我将进行一系列的调整<br>
+对不起大家……</p>
+<h2 id="2022321"><a class="markdownIt-Anchor" href="#2022321"></a> 2022.3.21</h2>
+<p>从明天起，日记将开始恢复正常。</p>
+<h2 id="2022322"><a class="markdownIt-Anchor" href="#2022322"></a> 2022.3.22</h2>
+<p>很好<br>
+汇报一下战绩<br>
+<s>（不忍直视，直接删除）</s><br>
+算了，说一下作文的事吧 <s>（再皮一下）</s><br>
+我写了，但不肯发出来，(<em><sup>▽</sup></em>)<br>
+所以给大家安利一个<br>
+《作文生成器》<br>
+链接：<a href="https://suulnnka.github.io/BullshitGenerator/index.html">https://suulnnka.github.io/BullshitGenerator/index.html</a><br>
+嘿嘿，秒生！！！<br>
+比如说……<br>
+<a href="https://suulnnka.github.io/BullshitGenerator/index.html?%E4%B8%BB%E9%A2%98=%E8%B0%A2%E8%A8%80%E5%B0%84%E6%98%AF%E7%8C%AA&amp;%E9%9A%8F%E6%9C%BA%E7%A7%8D%E5%AD%90=2453136790">这个</a></p>
+<p>嘿嘿，试试<br>
+<s>试试将这样的作文交给老师</s></p>
+<h2 id="2022323"><a class="markdownIt-Anchor" href="#2022323"></a> 2022.3.23</h2>
+<p>要考试了，赶紧复习！！！！</p>
+<h2 id="2022328"><a class="markdownIt-Anchor" href="#2022328"></a> 2022.3.28</h2>
+<p>很好，今天又开始写日记了<br>
+今天嘛……<br>
+我们有一位同学没有来<br>
+但……<br>
+算了，不要去推理人家了<br>
+本来想把界面调灰色的<br>
+但懒，不想调，所以……<br>
+还是发张图纪念吧……</p>
+<p><a href="https://pic1.zhimg.com/80/v2-b8fa0f4e9fde5b5e5e1600a8ee5b755a_1440w.jpg" class="gallery-item"><img src="https://pic1.zhimg.com/80/v2-b8fa0f4e9fde5b5e5e1600a8ee5b755a_1440w.jpg" alt=""></a></p>
+<p>逝者平安，一路走好……</p>
+<h2 id="2022329"><a class="markdownIt-Anchor" href="#2022329"></a> 2022.3.29</h2>
+<p>我在做一件大事，先咕咕咕一期</p>
+<h2 id="202241"><a class="markdownIt-Anchor" href="#202241"></a> 2022.4.1</h2>
+<p>愚人节快乐~<br>
+慢慢听吧</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=3&amp;id=2500631011&amp;auto=1&amp;height=66"></iframe>
+<p>我还有事，先走了</p>
+<h2 id="202248"><a class="markdownIt-Anchor" href="#202248"></a> 2022.4.8</h2>
+<p>啊~<br>
+咕咕咕了那么多期，总算复学了<br>
+明天数学第四单元正宗试卷要测试，请及时复习！！！<br>
+明天数学第四单元正宗试卷要测试，请及时复习！！！<br>
+明天数学第四单元正宗试卷要测试，请及时复习！！！<br>
+再来回顾一下今天的试卷（第一单元的正宗试卷）<br>
+第一题，就是<br>
+<strong>正数和负数是什么的量？</strong><br>
+我写了“相对”<br>
+但教科书上是“相反”<br>
+啊啊啊啊啊啊啊啊<br>
+要知道，我一开始写了“相反”<br>
+然后改成了“相对”<br>
+又写了“相反”<br>
+最后还是写了“相对”……<br>
+😥<br>
+嘿嘿，还好<br>
+我去问了一下我们<s>亲爱的</s>网友<br>
+他们说：</p>
+<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/fanandduei.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/fanandduei.png" alt=""></a></p>
+<p>给了我<s>受伤的小心灵</s>一点安慰<br>
+😰</p>
+<h2 id="2022412"><a class="markdownIt-Anchor" href="#2022412"></a> 2022.4.12</h2>
+<p>啊啊啊啊，怎么又考试啊啊啊！！！！<br>
+<s>天生我材必有用，奈何分数不够用</s><br>
+啊啊啊啊，那个zyh真的是<br>
+都没检查好就给我拿走了<br>
+鹅妈妈……<br>
+ε=(´ο｀*)))唉<br>
+<a href="https://api.solstice23.top/countdown/?date=1649822400&amp;type=1&amp;formatType=7&amp;fontSize=30&amp;color=5e72e4&amp;left=%E8%BF%98%E6%9C%89%20&amp;right=%20%E6%88%91%E5%B0%B1%E8%A6%81%E5%87%89%E5%87%89%E4%BA%86%E2%80%A6%E2%80%A6" class="gallery-item"><img src="https://api.solstice23.top/countdown/?date=1649822400&amp;type=1&amp;formatType=7&amp;fontSize=30&amp;color=5e72e4&amp;left=%E8%BF%98%E6%9C%89%20&amp;right=%20%E6%88%91%E5%B0%B1%E8%A6%81%E5%87%89%E5%87%89%E4%BA%86%E2%80%A6%E2%80%A6" alt=""></a></p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>游记</tag>
+        <tag>学校</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>言射歌单（内容来自网易云音乐）</title>
+    <url>/posts/3561598079/</url>
+    <content><![CDATA[<div class=".article-gallery"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<div class="admonition note"><p class="admonition-title">提示
+</p><p>以下内容均来自网易云音乐，侵删！！！</p>
+</div>
+<span id="more"></span>
+<h2 id="一-2022年初流行歌曲至少是我听得到"><a class="markdownIt-Anchor" href="#一-2022年初流行歌曲至少是我听得到"></a> 一、2022年初流行歌曲（至少是我听得到）</h2>
+<h3 id="no1-雪龙吟"><a class="markdownIt-Anchor" href="#no1-雪龙吟"></a> NO.1 雪龙吟</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1914933323">https://music.163.com/#/song?id=1914933323</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1914933323&amp;auto=1&amp;height=66"></iframe>
+<h3 id="no2-骁"><a class="markdownIt-Anchor" href="#no2-骁"></a> NO.2 骁</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1860864828">https://music.163.com/#/song?id=1860864828</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1860864828&amp;auto=1&amp;height=66"></iframe>
+<h3 id="no3-孤勇者"><a class="markdownIt-Anchor" href="#no3-孤勇者"></a> NO.3 孤勇者</h3>
+<p>链接： <a href="https://music.163.com/#/song?id=1901371647">https://music.163.com/#/song?id=1901371647</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1901371647&amp;auto=1&amp;height=66"></iframe>
+<h3 id="no4-星辰大海"><a class="markdownIt-Anchor" href="#no4-星辰大海"></a> NO.4 星辰大海</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1893699607">https://music.163.com/#/song?id=1893699607</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1893699607&amp;auto=1&amp;height=66"></iframe>
+<div class="admonition warning"><p class="admonition-title">PS
+</p><p>此音乐并非原版，因版权原因，此处放的是翻版</p>
+</div>
+<h3 id="no5-海市蜃楼"><a class="markdownIt-Anchor" href="#no5-海市蜃楼"></a> NO.5 海市蜃楼</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1831352877">https://music.163.com/#/song?id=1831352877</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1831352877&amp;auto=1&amp;height=66"></iframe>
+<div class="admonition warning"><p class="admonition-title">PS
+</p><p>此音乐并非原版，因版权原因，此处放的是翻版</p>
+</div>
+<h3 id="no6-起风了"><a class="markdownIt-Anchor" href="#no6-起风了"></a> NO.6 起风了</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1330348068">https://music.163.com/#/song?id=1330348068</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1330348068&amp;auto=1&amp;height=66"></iframe>
+<div class="admonition note"><p class="admonition-title">PS
+</p><p>此音乐为原版</p>
+</div>
+<h3 id="no7-错位时空"><a class="markdownIt-Anchor" href="#no7-错位时空"></a> NO.7 错位时空</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1808492017">https://music.163.com/#/song?id=1808492017</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=1&amp;height=66"></iframe>
+<h3 id="no8-一起向未来"><a class="markdownIt-Anchor" href="#no8-一起向未来"></a> NO.8 一起向未来</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1894606139">https://music.163.com/#/song?id=1894606139</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1894606139&amp;auto=1&amp;height=66"></iframe>
+<h3 id="no9-星河万里"><a class="markdownIt-Anchor" href="#no9-星河万里"></a> NO.9 星河万里</h3>
+<p>链接：<a href="https://music.163.com/#/song?id=1843704418">https://music.163.com/#/song?id=1843704418</a><br>
+在线即听：</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1843704418&amp;auto=1&amp;height=66"></iframe></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>歌曲</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>警告信</title>
+    <url>/posts/918071535/</url>
+    <content><![CDATA[<div class=".article-gallery"><p>收到此信的人，麻烦将信的内容通知给造谣毁谤谢言射及谢言射团队的人。</p>
+<pre><code>以下内容经属实。
+
+2022年2月21日下午（大约13:30），@某某某同学向@谢言射同学提了一些关于谢言射博客文章的建议，但这一幕被
+@***同学误解了，并大喊：“谢言射出轨了！”（谢言射表示大雾，明明自己从未与某位同学发生过感情）（***同学）继续散播谣言，导致谢言射的形象大损。
+
+对此，谢言射团队进行了考证，***同学说的都是谣言，并警告凡是造过、传过有关毁谤谢言射及谢言射团队形象的
+同学。如果继续进行此行为，谢言射团队将会采取必要措施。
+
+（我们是有依据的）《中华人民共和国宪法》第三十八条明确标注了禁止用任何方法对公民进行侮辱、诽谤和诬告陷
+害。（原文：中华人民共和国公民的人格尊严不受侵犯。禁止用任何方法对公民进行侮辱、诽谤和诬告陷害。）（来
+自百度）
+
+这是最后一次警告了！！！
+
+
+                                                                                谢言射团队
+                                                                             2022年2月21日
+</code></pre>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>说说</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/posts/3632233996/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="34068510df80e7b95daa5632b3e2584789964ba84ef70b35b4f16f1ca84d48a3">e5b37e53e2c46a3fea5e2687f691dfa15feaff5bfc6d26b16bdc59deebec261a376088226ab9b683a6c54e7826a0fd8ba561b718446796e614e044370d36a69fd49499bfd31dcf13503ac7341c36a535739ec7e5633c726c49b5880d6756d0628f4cc5d5448add53d08f846338843a8bfe5a5ab66419ed2268dbf9b26d641d368642f319cf253ee208606d91057979c3a682ec8f1e8718779c7e005ae41b7fdd0153bb426b0255b78281c8ca450bd22120b482ff57ee4b346abaea2f896a3748519ce7c9fa5b0a056ce4b99574564efe8ceca2b6c0f78b544502aaac5523ff2c33dc64e6101b6d8b166444ab0729dbc2124f68516dabdd70c4d63a057f70b9be185afc23516710656d7e970513db09428a6b86d265d975fd81fc9ebb5fee31b523065384b76d6a42500e8b8562092587b5dc7bceb2b5511cdc8c84631273394021bde4f0bcc8955f5a74432d89c28cdd8ef37e0185bd5447cf803292f524a3417abbd3710869cee72aa9db451054ecedb9bd2b585c7dec1629967f0061085e5fd3f6533f07ae7d7e34ca0a2fb157895bcb55691b9614e782daf1781a292bead161acb855ded5f1cb00d78b110c8cb895152b184b633fd8cbd60fcecea80abd503dc8fa64ae75c7d75250486543952490a93919d11d28e8417fdd318f65ba72cfdac06d795fd8d83a12bb13eaad9e2ea9d8990d9757da9be1212c5b6eb57b9e423ed72db4428b5ef46b5f7af7565fcf2092036c53841fe0a79cb646e2d0d275fa65554c6b80fd6fc1919c16fa696f49f5405221e5ba23ba2a0882a5f7b5462e1ee859c1e54701c8e2c53b97f2c78a6ddb0d2bf057c7daa6824d059a71b32b1cc4aee87daa4648818d3ab49887c84d116d4e2ed96a126aaa982a434901cd66ab111e0de35cae840446398cbc3ab9ca469d8c58546a672bdb8bde59c934def672038a3d3ee16b1160bd55e84c1996d57c677c3bc972034638e55dae38ba964e3abe3e786fbf2e23d33d675944747422553539c2addf43827127ccbc1a9addd05dcc21df53951b7a2c5b2ab042cfa8e5bb2ca5ff1847fc44098ef44f492a4d57902a7b3e582d06195e7c987eea44199bd426660e3ed9738cc41124104e142a1b5dfc0627da12f9377683cf0b4aa7f189cd3e719d0c3c4117c03c4cb55fa04bb80f76fdc53dad8b0638f3410549752d9e5416cfddcd431cc7eff695cb1658eee95807169e06cf12d1035d80daf987c12177a7e33263a7c5c3c9ba2fa32eb5c789cdc8fdebc9a528d213a7592796155cadf919116fd368da0d2638f98566c1c4d64f0ff2bea3090dedfd6f5161533ca29242b3fd4e9f07447e27de998b97340df1c3256bed1cecb47ff36d27ae69e3a27cbd5cd86e73f4ff5c88c5009dfc4025c1198569363fe3508f88767368e25984d072793b549708b58a66ef7cb461076bbf75c9b4bac0206fb315dffa0d35a153d67d1771a85c4330ad99f844e8a273ddb688cf920e3956ebb993c324b142097522f808c12e16e40196d9d06b9b5022d01f9311311c8673bd16f0f3da72ff8161b9ba362188c71ae2d2c6bf16dad5a9728ec8e11af1fd0ebd0a11f21a0f41ca7f67daf5ce53a2ebc155b118675692e8833245ec543975a330f249da287bd12e983596ccdeb0604e9b4ffe546fc5da2f4fe38167f65c428c35ce01fed0f534a7a6c6efcbef181edd58420170fa70eb84711ba911b7b4c46d3b96a825fdd5fcf4b26f4cf3e1e9df0d862701ab1569b3869d13881a6fcc66a3dddebd8474d14c5c922c5d0a6cae57ba4050aba9a5049fcb90071245df6c71486463f21f434697314ef9847ba0a8992ced3a8a59c958385e939407c4a41484679267ad5cc319c9bc99fb85c0e49b877864257f52ccf018dd9e4b98fc9250c82518198a4065de999cc401ed74700758a5d8a8e55e39cd3206567c9b5798db8e6f4a38b0df21efe5249ad3033562cc693a434506269a032813f70119c1ab32c0c3b8d6967b8906b9583bb87a018877b37f43cb84129157998162ca93deeeb1b2a9270716bea0257cf5e92be44be92caabbebacae53b44d48683fa17b7bc23e53f98a502477b4e2462afaa06913c13bdb15b602c3bfd45f042619e52684e750836e45fa50b968ba561b0d245aca38d0d5e4212e63e4bc13fa85a87f4f162737af8d7795922cd1b5f3e8b155081f2883f4253a5b3b364fe0f4359114a89e1e233b2cff016d1caadc6f41f3d7c6f8a116f71bbc5d180f783e315885e695fea5a9d7f684aa57544c6bf3a781695d34556eaac58ec7cf06a01ae31f7e427b4ff5451c545f3fee985757ac08108e6a50bba2f2bac45f8a82c06c2a307a8abad3ed22330c38da683061357ab1513db9e473125ee489114f066b275e2070ccd0932085d11727e8417f449b5ecd2bf0ff32d640af51f8570a1dc004a11044d9810c36753d39e3be98ef009fd425c14122c3b9868946ad8526da7b0f94c25a0ad282328065cef3759aa8288708a3adb4d980ababdd69ef3aa850fd84b22d8fd7da44232791a9673529483a781073a84288628f88501257493b3f3aa84c427dcdb6e1497d7edcb486588a504d27a7796fc94cbf3c08f09dca16650f2ada76f17791f8dcba6df0807701b26c6c220ed72c6905fea5be244b1d6ebb677c4dafa1234bf9675131efbca36a1a657898b1bd44b7e790d00a909bd1a7482fad9c7b8697d77434f50bc91189954cad50875d0acfacd75b917ab04befc4c749d4326c0ef95d4f7d4d9934e934019c27cb235e4c778df9c227995d72ebfd195d471de469b1ffc4dc90c39331b88d9ddfbb71b5c68ecd6204e78f5ab88fe1976aa1398f2989e32cd28b105d0ce919d64af99b5ccecb5235f1f67955f050b4b51fd3222aef5b05e8fde748519e0bd3f64055bed2fbf27459a7bdf7dca914656dd81506642866d32baff097ee11cb894ef0d6ee6995e269863583ab339f9ac99970c4826d05dd6842013a7f6c0300aeb8cfc53ecf99b71c0fe95ff0b8b836f12e83ed205905d87b14a9efd5a5d24493d2c3c98be16b5c32f25b923ffdcfd428daf6f49b94c8d914d1f2b7a8df49576d258d90534610e6a7da5a75c2c79b5b8a1329d5a3e37a2b41dec7f9b793785648df2462bf5be036d2bfdacea4ec88cd66d6b8538c8c072431b6ca0610c5f71674ee9687fca85962fa6ca675bb574af7a748473cd3dc720789e4a7c5882f6d2699d69503436bf7a6fb55c696da9808c6c2cb6143e3505782bee650219da1935fd2392f8ffd9a31f0ed4a2ce3d5af57ded06fb4cdc3065ccc345dd975b9f07382cf998532d68c9dc9ef17520bdbfe8d10ba682de61349d8d78e5bd58a3277ff983d10f87c60508d37c4edbc81e856b09bcee9fa7808215365cf072baeee3f343cd8dba498181486f28a881225979bf31cd09f10878dbf39d442e9d1e2dc8376ceb37eee58d054e06c14055644613c953a82fc3c7d2a5fdb7bd2f3aba93cacced2781925ce54064f23646e96217fb7c94e27e0d66df05b7088b94ca88882b7aebaa260c3d5de4f262fec068fb86322ffd3e31f1b3d421ff5ffe97523553334ba505238539155a0a76e658be25ce4f6ce961ea4674841a3e6f1247eab428fa0168d9ae8fde915fdb8e7e2f3772e40df601f0aad812ba4eee8316b9d42133eda4ce5a8f1cc61a4c40015da054ad5e7f65e9d9408c4c59ee3e442552700cbffd13906ed24cae6734c11ec27ae556859bceca6453c9b7db4d14964f3f5b586ea3cc0294c7cbbdcad1e522df55cf8bcf4cdfca3f504b6f3c51cca9319e73d6fb9bcd4bd18967adcb1b6a2552bc5c6aef69d0feaa131f7bc31a70699e8ed5a7381babc2c0ee10175d1240863806a80cace77c98064bb7fa2b93bf088bbaeb5e78aea9205948723e045e3d774e0a3f89b4b2075ca6e4dd8fbf5e229b2eeb00c797bfdd55bc2c8d0aee36ad2f237d74d8f96565d6f652dc94722bd2c008094e4ab68b47647340fe5be54468147225a6e2223a0ce1682f0d26f35c8056daf6baa5925eebfc01f1d79259c4c2c33d3a315668c6f76e2ed65ebb103fe2375dc967f3d8fef5e3dffc2e15c7867158358c2133ef5e8c8c63de56f2fac33bf40a1f7b5502c8a9554f66731b256b6b3401ff346265cf4020aacd37c5156635b85519f7691d2bf596df5dff3bdf7b7bf6952dedbc83e87920b25698651b4299f1da2a83f7d593eb969e824f67e8ca1c1a04494662e71c8a0099645f4b30c6361d074b120d0eea4049a45818fe6e5218239c9a4e649a95a8272319bc5d2f6af9bd9fbd3e76e79fd2f4b17edddea6245144f04f1deb68c7a10f5bd5ef0bd4ea057f12995c9c00442de282a03122201c9ff78c192868709e5c71f24a22d28af77685a431c4e604bd799d7b08127c0187df423d8df1d27e0228147939eb427248d063b12365ac6c6ae97d4205410c2921f2ea294980e4e9b3e61c9d07cc9d4f4e000d3727070498294ac0e4ac21d749d9bbf60398506063ca67971139207ac30f58aeec7c8ac57089d75f6433b4f052cd5715e624a03a7f8e37534a2df9e55431e0ec1329d6fee6ad1dd2b9ddf7621cb5ae597a0ab78694a9ebf005237e2c5d46742b8e581efc919c80a11003b2d7c90080d08fb24ddf8b08cfbdd12b38d01d974fc7e480db8b1be1a2ee6e6dbb2eaa907ee42d15e486b59badb88f3c21c1a02755bf2f2af2dec57e94c49d146f2bf5c26b20bb727cdc98898558f2fe2ec431ed3828cc976d7e9aefdcbadcd92e4881063c34e97fd91f214c6861137fc016c3fa6b3a53a1e075c026e38f23226e188a6b5a79ed57b32eb0d127d2bade3a2ee9073e74600acd13a673922abc59820693da887f151b6f13d06256929a91ff8a1f34ef2948ffd66f0bfc0d51af7843db7413ca43f444bba9d9d53751ebc4c6349ad28cc02cbd0afa6c377de243562d0e0735d4e21b09c0733c05e300ba8fe2725190855e42a9684d45303bc4ba06497cd745d8b186191987a418e0c82c5562f09175a9e0cfa8f40413e3970ff41c3cab4b0f56fc6cb45da90dff97afe6299c9d84235b5d8a690</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这篇文章设置了密码，请点击此处以输入</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
+  <entry>
+    <title>源码博客2.0发布会</title>
+    <url>/posts/2610740764/</url>
+    <content><![CDATA[<div class=".article-gallery"><h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1>
+<p>咳咳咳，开学前再做个发布会吧<br>
+今天，我谢言射郑重宣布，源码博客2.0正式发布！<br>
+<s>以后很少更新了</s><br>
+先不管他</p>
+<span id="more"></span>
+<h1 id="更新"><a class="markdownIt-Anchor" href="#更新"></a> 更新</h1>
+<h2 id="新增功能"><a class="markdownIt-Anchor" href="#新增功能"></a> 新增功能</h2>
+<h3 id="一只可爱的小狗"><a class="markdownIt-Anchor" href="#一只可爱的小狗"></a> 一只可爱的小狗</h3>
+<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741168.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741168.png" alt=""></a></p>
+<h3 id="新增聊天功能"><a class="markdownIt-Anchor" href="#新增聊天功能"></a> 新增聊天功能</h3>
+<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741250.png" title="图标" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741250.png" alt="图标"></a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741268.png" title="聊天界面" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741268.png" alt="聊天界面"></a></p>
+<h3 id="背景改了"><a class="markdownIt-Anchor" href="#背景改了"></a> 背景改了</h3>
+<p>（不给展示了，自己去看）</p>
+<h3 id="访问速度加快有自定义域名了重点"><a class="markdownIt-Anchor" href="#访问速度加快有自定义域名了重点"></a> 访问速度加快&amp;有自定义域名了！！！（重点）</h3>
+<p>域名换成了https://www.xys-blog.cf/<br>
+别再输之前那个了！！！<br>
+<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/QQ%E6%88%AA%E5%9B%BE20220213163948.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/QQ%E6%88%AA%E5%9B%BE20220213163948.png" alt=""></a></p>
+<p>PS：要域名的和我说一声，免费提供<strong>顶级域名</strong>（<a href="http://xn--siqw5lms6b.tk">后缀为.tk</a>,.ml,.ga,.gq,.cf的)</p>
+<h3 id="添加了文章密码保护"><a class="markdownIt-Anchor" href="#添加了文章密码保护"></a> 添加了文章密码保护</h3>
+<p>某些文章增加了密码保护，如果真的要看，请在我的微信公众号（Seth本人）回复【密码】获取。</p>
+<h3 id="还有很多"><a class="markdownIt-Anchor" href="#还有很多"></a> ……（还有很多）</h3>
+<h2 id="debug"><a class="markdownIt-Anchor" href="#debug"></a> DEBUG</h2>
+<h3 id="加快了网站的访问速度"><a class="markdownIt-Anchor" href="#加快了网站的访问速度"></a> 加快了网站的访问速度</h3>
+<h1 id="页面展示"><a class="markdownIt-Anchor" href="#页面展示"></a> 页面展示</h1>
+<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644747240.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644747240.png" alt=""></a></p>
+<p>PS：别问我为什么这次图床够用了，因为我自己搭建了一个</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>源码博客</tag>
+        <tag>发布会</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小学数学必背公式</title>
+    <url>/posts/336091895/</url>
+    <content><![CDATA[<div class=".article-gallery"><p>概 念</p>
+<p>1、加法交换律：两数相加交换加数的位置，和不变。</p>
+<p>2、加法结合律：三个数相加，先把前两个数相加，或先把后两个数相加，再同第三个数相加，和不变。</p>
+<p>3、乘法交换律：两数相乘，交换因数的位置，积不变。</p>
+<p>4、乘法结合律：三个数相乘，先把前两个数相乘，或先把后两个数相乘，再和第三个数相乘，它们的积不变。</p>
+<p>5、乘法分配律：两个数的和同一个数相乘，可以把两个加数分别同这个数相乘，再把两个积相加，结果不变。如：（2+4）×5＝2×5+4×5</p>
+<p>6、除法的性质：在除法里，被除数和除数同时扩大（或缩小）相同的倍数，商不变。O除以任何不是O的数都得O。</p>
+<span id="more"></span>
+<p>简便乘法：被乘数、乘数末尾有O的乘法，可以先把O前面的相乘，零不参加运算，有几个零都落下，添在积的末尾。</p>
+<p>7、么叫等式？等号左边的数值与等号右边的数值相等的式子叫做等式。</p>
+<p>等式的基本性质：等式两边同时乘以（或除以）一个相同的数，等式仍然成立。</p>
+<p>8、什么叫方程式？答：含有未知数的等式叫方程式。</p>
+<p>9、 什么叫一元一次方程式？答：含有一个未知数，并且未知数的次数是一次的等式叫做一元一次方程式。学会一元一次方程式的例法及计算。即例出代有χ的算式并计算。</p>
+<p>10、分数：把单位“1”平均分成若干份，表示这样的一份或几分的数,叫做分数。</p>
+<p>11、分数的加减法则：同分母的分数相加减，只把分子相加减，分母不变。异分母的分数相加减，先通分，然后再加减。</p>
+<p>12、分数大小的比较：同分母的分数相比较，分子大的大，分子小的小。异分母的分数相比较，先通分然后再比较；若分子相同，分母大的反而小。</p>
+<p>13、分数乘整数，用分数的分子和整数相乘的积作分子，分母不变。</p>
+<p>14、分数乘分数，用分子相乘的积作分子，分母相乘的积作为分母。</p>
+<p>15、分数除以整数（0除外），等于分数乘以这个整数的倒数。</p>
+<p>16、真分数：分子比分母小的分数叫做真分数。</p>
+<p>17、假分数：分子比分母大或者分子和分母相等的分数叫做假分数。假分数大于或等于1。</p>
+<p>18、带分数：把假分数写成整数和真分数的形式，叫做带分数。</p>
+<p>19、分数的基本性质：分数的分子和分母同时乘以或除以同一个数（0除外），分数的大小不变。</p>
+<p>20、一个数除以分数，等于这个数乘以分数的倒数。</p>
+<p>21、甲数除以乙数（0除外），等于甲数乘以乙数的倒数。</p>
+<p>分数的加、减法则：同分母的分数相加减，只把分子相加减，分母不变。异分母的分数相加减，先通分，然后再加减。</p>
+<p>分数的乘法则：用分子的积做分子，用分母的积做分母。</p>
+<p>22、什么叫比：两个数相除就叫做两个数的比。如：2÷5或3:6或1/3，比的前项和后项同时乘以或除以一个相同的数（0除外），比值不变。</p>
+<p>23、什么叫比例：表示两个比相等的式子叫做比例。如3:6＝9:18</p>
+<p>24、比例的基本性质：在比例里，两外项之积等于两内项之积。</p>
+<p>25、解比例：求比例中的未知项，叫做解比例。如3:χ＝9:18</p>
+<p>26、正比例：两种相关联的量，一种量变化，另一种量也随着化，如果这两种量中相对应的的比值（也就是商k）一定，这两种量就叫做成正比例的量，它们的关系就叫做正比例关系。如：y/x=k( k一定)或kx=y</p>
+<p>27、反比例：两种相关联的量，一种量变化，另一种量也随着变化，如果这两种量中相对应的两个数的积一定，这两种量就叫做成反比例的量，它们的关系就叫做反比例关系。如：x×y = k( k一定)或k / x = y</p>
+<p>28、百分数：表示一个数是另一个数的百分之几的数，叫做百分数。百分数也叫做百分率或百分比。</p>
+<p>29、把小数化成百分数，只要把小数点向右移动两位，同时在后面添上百分号。其实，把小数化成百分数，只要把这个小数乘以100％就行了。</p>
+<p>30、把百分数化成小数，只要把百分号去掉，同时把小数点向左移动两位。</p>
+<p>31、把分数化成百分数，通常先把分数化成小数（除不尽时，通常保留三位小数），再把小数化成百分数。其实，把分数化成百分数，要先把分数化成小数后，再乘以100％就行了。</p>
+<p>32、把百分数化成分数，先把百分数改写成分数，能约分的要约成最简分数。</p>
+<p>33、要学会把小数化成分数和把分数化成小数的化发。</p>
+<p>34、最大公约数：几个数都能被同一个数一次性整除，这个数就叫做这几个数的最大公约数。（或几个数公有的约数，叫做这几个数的公约数。其中最大的一个，叫做最大公约数。）</p>
+<p>35、互质数：公约数只有1的两个数，叫做互质数。</p>
+<p>36、最小公倍数：几个数公有的倍数，叫做这几个数的公倍数，其中最小的一个叫做这几个数的最小公倍数。</p>
+<p>37、通分：把异分母分数的分别化成和原来分数相等的同分母的分数，叫做通分。（通分用最小公倍数）</p>
+<p>38、约分：把一个分数化成同它相等，但分子、分母都比较小的分数，叫做约分。（约分用最大公约数）</p>
+<p>39、最简分数：分子、分母是互质数的分数，叫做最简分数。</p>
+<p>40、分数计算到最后，得数必须化成最简分数。</p>
+<p>41、个位上是0、2、4、6、8的数，都能被2整除，即能用2进行</p>
+<p>42、约分。个位上是0或者5的数，都能被5整除，即能用5进行约分。在约分时应注意利用。</p>
+<p>43、偶数和奇数：能被2整除的数叫做偶数。不能被2整除的数叫做奇数。</p>
+<p>44、质数（素数）：一个数，如果只有1和它本身两个约数，这样的数叫做质数（或素数）。</p>
+<p>45、合数：一个数，如果除了1和它本身还有别的约数，这样的数叫做合数。1不是质数，也不是合数。</p>
+<p>46、利息＝本金×利率×时间（时间一般以年或月为单位，应与利率的单位相对应）</p>
+<p>47、利率：利息与本金的比值叫做利率。一年的利息与本金的比值叫做年利率。一月的利息与本金的比值叫做月利率。</p>
+<p>48、自然数：用来表示物体个数的整数，叫做自然数。0也是自然数。</p>
+<p>49、循环小数：一个小数，从小数部分的某一位起，一个数字或几个数字依次不断的重复出现，这样的小数叫做循环小数。如3. 141414</p>
+<p>50、不循环小数：一个小数，从小数部分起，没有一个数字或几个数字依次不断的重复出现，这样的小数叫做不循环小数。如圆周率：3. 141592654</p>
+<p>51、无限不循环小数：一个小数，从小数部分起到无限位数，没有一个数字或几个数字依次不断的重复出现，这样的小数叫做无限不循环小数。如3. 141592654……</p>
+<p>52、什么叫代数?代数就是用字母代替数。</p>
+<p>53、什么叫代数式?用字母表示的式子叫做代数式。如：3x =ab+c</p>
+<p>关系表达式</p>
+<p>1、每份数×份数＝总数总数÷每份数＝份数总数÷份数＝每份数</p>
+<p>2、 1倍数×倍数＝几倍数几倍数÷1倍数＝倍数几倍数÷倍数＝1倍数 3、速度×时间＝路程路程÷速度＝时间路程÷时间＝速度</p>
+<p>4、单价×数量＝总价总价÷单价＝数量总价÷数量＝单价</p>
+<p>5、工作效率×工作时间＝工作总量工作总量÷工作效率＝工作时间工作总量÷工作时间＝工作效率</p>
+<p>6、加数＋加数＝和和－一个加数＝另一个加数</p>
+<p>7、被减数－减数＝差被减数－差＝减数差＋减数＝被减数</p>
+<p>8、因数×因数＝积积÷一个因数＝另一个因数</p>
+<p>9、被除数÷除数＝商被除数÷商＝除数商×除数＝被除数</p>
+<p>总数÷总份数＝平均数</p>
+<p>和差问题的公式</p>
+<p>(和＋差)÷2＝大数</p>
+<p>(和－差)÷2＝小数</p>
+<p>和倍问题</p>
+<p>和÷(倍数－1)＝小数</p>
+<p>小数×倍数＝大数</p>
+<p>(或者和－小数＝大数)</p>
+<p>差倍问题</p>
+<p>差÷(倍数－1)＝小数</p>
+<p>小数×倍数＝大数</p>
+<p>(或小数＋差＝大数)</p>
+<p>植树问题</p>
+<p>1 非封闭线路上的植树问题主要可分为以下三种情形:</p>
+<p>⑴如果在非封闭线路的两端都要植树,那么:</p>
+<p>株数＝段数＋1＝全长÷株距－1</p>
+<p>全长＝株距×(株数－1)</p>
+<p>株距＝全长÷(株数－1)</p>
+<p>⑵如果在非封闭线路的一端要植树,另一端不要植树,那么:</p>
+<p>株数＝段数＝全长÷株距</p>
+<p>全长＝株距×株数</p>
+<p>株距＝全长÷株数</p>
+<p>⑶如果在非封闭线路的两端都不要植树,那么:</p>
+<p>株数＝段数－1＝全长÷株距－1</p>
+<p>全长＝株距×(株数＋1)</p>
+<p>株距＝全长÷(株数＋1)</p>
+<p>2 封闭线路上的植树问题的数量关系如下</p>
+<p>株数＝段数＝全长÷株距</p>
+<p>全长＝株距×株数</p>
+<p>株距＝全长÷株数</p>
+<p>盈亏问题</p>
+<p>(盈＋亏)÷两次分配量之差＝参加分配的份数</p>
+<p>(大盈－小盈)÷两次分配量之差＝参加分配的份数</p>
+<p>(大亏－小亏)÷两次分配量之差＝参加分配的份数</p>
+<p>相遇问题</p>
+<p>相遇路程＝速度和×相遇时间</p>
+<p>相遇时间＝相遇路程÷速度和</p>
+<p>速度和＝相遇路程÷相遇时间</p>
+<p>追及问题</p>
+<p>追及距离＝速度差×追及时间</p>
+<p>追及时间＝追及距离÷速度差</p>
+<p>速度差＝追及距离÷追及时间</p>
+<p>流水问题</p>
+<p>顺流速度＝静水速度＋水流速度</p>
+<p>逆流速度＝静水速度－水流速度</p>
+<p>静水速度＝(顺流速度＋逆流速度)÷2</p>
+<p>水流速度＝(顺流速度－逆流速度)÷2</p>
+<p>浓度问题</p>
+<p>溶质的重量＋溶剂的重量＝溶液的重量</p>
+<p>溶质的重量÷溶液的重量×100%＝浓度</p>
+<p>溶液的重量×浓度＝溶质的重量</p>
+<p>溶质的重量÷浓度＝溶液的重量</p>
+<p>利润与折扣问题</p>
+<p>利润＝售出价－成本</p>
+<p>利润率＝利润÷成本×100%＝(售出价÷成本－1)×100%</p>
+<p>涨跌金额＝本金×涨跌百分比</p>
+<p>折扣＝实际售价÷原售价×100%(折扣＜1)</p>
+<p>利息＝本金×利率×时间</p>
+<p>税后利息＝本金×利率×时间×(1－20%)</p>
+<p>单位间进率</p>
+<p>1公里＝1千米 1千米＝1000 米</p>
+<p>1米＝10分米 1分米＝10厘米 1厘米＝10毫米</p>
+<p>1平方米＝100平方分米 1平方分米＝100平方厘米 1平方厘米＝100平方毫米</p>
+<p>1立方米＝1000立方分米 1立方分米＝1000立方厘米 1立方厘米＝1000立方毫米</p>
+<p>1吨＝1000千克 1千克= 1000克= 1公斤= 1市斤</p>
+<p>1公顷＝10000平方米 1亩＝666.666平方米</p>
+<p>1升＝1立方分米＝1000毫升 1毫升＝1立方厘米</p>
+<p>面积单位换算</p>
+<p>1平方千米=100公顷</p>
+<p>1公顷=10000平方米</p>
+<p>1平方米=100平方分米</p>
+<p>1平方分米=100平方厘米</p>
+<p>1平方厘米=100平方毫米</p>
+<p>体(容)积单位换算</p>
+<p>1立方米=1000立方分米</p>
+<p>1立方分米=1000立方厘米</p>
+<p>1立方分米=1升</p>
+<p>1立方厘米=1毫升</p>
+<p>1立方米=1000升</p>
+<p>重量单位换算</p>
+<p>1吨=1000 千克</p>
+<p>1千克=1000克</p>
+<p>1千克=1公斤</p>
+<p>人民币单位换算</p>
+<p>1元=10角</p>
+<p>1角=10分</p>
+<p>1元=100分</p>
+<p>时间单位换算</p>
+<p>1世纪=100年 1年=12月</p>
+<p>大月(31天)有:135781012月</p>
+<p>小月(30天)的有:46911月</p>
+<p>平年2月28天, 闰年2月29天</p>
+<p>平年全年365天, 闰年全年366天</p>
+<p>1日=24小时 1时=60分</p>
+<p>1分=60秒 1时=3600秒</p>
+<p>几何形体周长面积体积计算公式</p>
+<p>1、长方形的周长=（长+宽）×2 C=(a+b)×2</p>
+<p>2、正方形的周长=边长×4 C=4a</p>
+<p>3、长方形的面积=长×宽 S=ab</p>
+<p>4、正方形的面积=边长×边长 S=a.a= a</p>
+<p>5、三角形的面积=底×高÷2 S=ah÷2</p>
+<p>6、平行四边形的面积=底×高 S=ah</p>
+<p>7、梯形的面积=（上底+下底）×高÷2 S=（a＋b）h÷2</p>
+<p>8、直径=半径×2 d=2r 半径=直径÷2 r= d÷2</p>
+<p>9、圆的周长=圆周率×直径=圆周率×半径×2 c=πd =2πr</p>
+<p>10、圆的面积=圆周率×半径×半径</p>
+<p>11、长方体的表面积＝（长×宽＋长×高＋宽×高） ×2 公式：S=（a×b+a×c+b×c）×2</p>
+<p>12、长方体的体积＝长×宽×高公式：V = abh</p>
+<p>13、正方体的表面积＝棱长×棱长×6 公式：S=6a2</p>
+<p>14、长方体（或正方体）的体积＝底面积×高公式：V = abh</p>
+<p>15、正方体的体积＝棱长×棱长×棱长公式：V = a3</p>
+<p>16、圆柱的表（侧）面积：圆柱的表（侧）面积等于底面的周长乘高。公式：S=ch=πdh＝2πrh</p>
+<p>17、圆柱的表面积：圆柱的表面积等于底面的周长乘高再加上两头的圆的面积。公式：S=ch+2s=ch+2πr2</p>
+<p>18、圆柱的体积：圆柱的体积等于底面积乘高。公式：V=Sh</p>
+<p>19、圆锥的体积＝1/3底面×积高。公式：V=1/3Sh</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>言射学习</tag>
+        <tag>小学数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小黑屋（黑名单）</title>
+    <url>/posts/2531786604/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="7d7f95364a6f0f5e7c026cc573fa38ed51d2cafb447ae79cf95d9aa2aaef5eff">51d714a1c2f3105f7d25e4a48f156d97c80f6bdf54fc301b6c85e0382c47a3e69928af2bf20479b149deed996c8a3d32fb97419c8966bf0daa044bea32a4fbbad517f25128db74abb19f35d9dc2b76a5cb56ecf229133eb9be968ab4992c8e56d526328592a07121a5729ae7518356e0fda2b34a23985f53039d5dce3ecd663d84a3999073c501dca7acb28942c5a89b55cd710901d43cbe3cf0515a1d6aaa1700091aa0350d3fca32d3203ea840f18658d582c7dd30ac7e83deae04ce659e67025cd3647c03e2db966da7104b8e22d03ec361cbdd5cc7c3f5051878d48653723244c9ad7b04cfe5b4ebdd9cfa3b61315f0aec669d068965ae4072726896c64cecbaf673160a4e178e70e972fe4fda6b096acbaf29b1c928cb604313e45f9ec21ee1e5feca45576a651f6f9b96f8f31040e36296eca7bb5df2659e44289b986b5f9ccacb394455745c1e64c083e691d01213343a7a97b9ee42a3ef5b415ccbe4f787c22c1fc7b3a25401de80a071ac21be4b4d49dfbef3409b138665cc07228361630c739b5e2d76e7f655c049042f2d5bb03fbf7076248a95fe48c7bb8d5ca2e8db80104ee411a5b714f997d241e2be4d2cb29477b63894749733f2cc87bff7c63e3941e3caab30b17af9c686eab9467fe795e2e9022956cf3c939d59c11232fcbd72d400ad80b33c56d1c8f5e77d2ff4c8dcb5e6f73134661bb07d6cd5343a47b1140ec354ec8079b9665078611ea4776d76bd46ed62a65b9dfe155d528b58ca6fa13e4ba0e3744045d191c1a91617f8ef343eb808cbd561016bbd4670e37c4b605b425d2a813a88ace24e674171c2cf3d6b2f5024a1d2f65f6fac1e364b43be542a7cb5c674a7849ab6d6563344a95a84adda77ae38bf441d1bff4f03384e07749f335b6a78d76d2e5bf710f2f61caebf6903745a5f789e28f459d8958d0eefc8f425a21044315bf12596f4a7d12c525c0a1694e656a120dfd6eade3f7203d6548a54dc161bb967bc563a1f1f11950e25bce6d0973fdd46f596354d23486384dadb71a7df86921d6e25f73180796e1a9aca1a3194d8d89745a6d61b8640aed19f2fc5cc267e5a24f2e31b6e52c866273aeab301c80b4fc827c2ae82324d1e5f6b0e4564b81fa974e22dc3db7a23fb28a53b633b94267dfffffe3a25d109b89388e162f05ba90c025552e902929c2959a0516304e78c32d8a0aede39c61233890ec125e28e0fbc8f8aa8e59e207618b183de33c6e6bf0469af314e0ae48cd0585f9ab0677e427b0a12a254e88efb37705318def9b415f29046cc0922f6c3c817a230e157d2ed0f01b675c084419a1e994fa87a726a9b316872170bca8087a3e2e009eafc838fb98460483156c324558a09d5134dc59dd05d3fac6c96059c3cbde6c13d4e1dbc9fb9e1675ba8dc5a1d95ba8f86e695c1e787988fea5a1ab081b162dace28e5d0adf58bfa63c98052559fa90377035d7ad995efcabac18bb1dfaf6f204f7b135b9f3cb45b97de50bc8df7cc6dc70396654ce247f286702e6f2b0c4f92270993a830a87bf3d9c82527a1d6acf61b2d4a2d70bdc2b88c8bdcbde423237fa27a1c0327d8a3f50d641f7f8ae33330646a5d47fce891228dc3db6376070fda052b572628547e9510ae1aedf0267d97cf2cab8ceaa3ee064f9f66e93f42a154a0887cc55635308dce19228d86dd9922357f503f20643ddba344ef8bd2212edd31ca114b2ba5c1cf9fb87771eedcf0a351e1b90d0fa68c94727f0ad5728fbe72847f7b571d674280faee6fb32eceb1e2b4038bf8f8b488d4115930246abc9c950122ad24b884b38587a6c43ad61e6d1e862ebb3ad881c031ddbb7141f676372e5dab032cf1ee2dbeb256c103d652e3e2355c378f9216673d982ea50ed402447df5890643f9f9e790b90e7716d774bda9bcf373495b6a806c1f5180738999bf2d0997b1493a996c786e953474a30813e63989ded393e2e6f4f34b347b368a43fcd092a1b97600a6ef2cdcc600e884e584953b113f60732655cebf6c752cb3d75187d4633b1a6330475c0b161ab50a9bbbbe635af71e245251deb3ba62acd34528f3151aec207913523c41f113f5f1e05fd598d731231b266ae2d9d099814fe42b9034ea30be8468989080c1b0e9a298dea7e5f33d5a7389ef1a9e6d606850d324cdce05606cf753a8b85915622e0e44ce7bd59c0b658f7a5dcab81fa90d801e0f2c353ded7d42d6392eba7668a63d43a5b1535e8231865e98afe5ace3115445ff1f7c59a51657ff6226569ec75118b2b6f487f2fa7eb62e958cba97e633</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这篇文章设置了密码，请点击此处以输入</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
+  <entry>
+    <title>小学奥数公式</title>
+    <url>/posts/1563617092/</url>
+    <content><![CDATA[<div class=".article-gallery"><p>1、 每份数×份数＝总数 总数÷每份数＝份数总数÷份数＝每份数</p>
+<p>2、 1倍数×倍数＝几倍数 几倍数÷1倍数＝倍数几倍数÷倍数＝1倍数</p>
+<p>3、 速度×时间＝路程 路程÷速度＝时间 路程÷时间＝速度</p>
+<p>4、 单价×数量＝总价 总价÷单价＝数量 总价÷数量＝单价</p>
+<p>5、 工作效率×工作时间＝工作总量 工作总量÷工作效率＝工作时间工作总量÷工作时间＝工作效率</p>
+<p>6、 加数＋加数＝和 和－一个加数＝另一个加数</p>
+<span id="more"></span>
+<p>7、 被减数－减数＝差 被减数－差＝减数 差＋减数＝被减数</p>
+<p>8、 因数×因数＝积 积÷一个因数＝另一个因数</p>
+<p>9、 被除数÷除数＝商 被除数÷商＝除数 商×除数＝被除数</p>
+<p>-图形计算公式：</p>
+<p>1 、正方形 C周长 S面积 a边长 周长＝边长×4 C=4a 面积=边长×边长</p>
+<p>2 、正方体 V:体积 a:棱长 表面积=棱长×棱长×6 S表=a×a×6 体积=棱长×棱长×棱长 V=a×a×a</p>
+<p>3 、长方形 C周长 S面积 a边长</p>
+<p>周长=(长+宽)×2</p>
+<p>C=2(a+b)</p>
+<p>面积=长×宽</p>
+<p>S=ab</p>
+<p>4 、长方体</p>
+<p>V:体积 s:面积 a:长 b: 宽 h:高 . |</p>
+<p>(1)表面积(长×宽+长×高+宽×高)×2</p>
+<p>S=2(ab+ah+bh)</p>
+<p>(2)体积=长×宽×高</p>
+<p>V=abh</p>
+<p>5 三角形</p>
+<p>s面积 a底 h高</p>
+<p>面积=底×高÷2</p>
+<p>s=ah÷2</p>
+<p>三角形高=面积 ×2÷底</p>
+<p>三角形底=面积 ×2÷高</p>
+<p>6 平行四边形</p>
+<p>s面积 a底 h高</p>
+<p>面积=底×高</p>
+<p>s=ah</p>
+<p>7 梯形</p>
+<p>s面积 a上底 b下底 h高</p>
+<p>面积=(上底+下底)×高÷2</p>
+<p>s=(a+b)× h÷2</p>
+<p>8 圆形 ,</p>
+<p>S面积 C周长 ∏ d=直径 r=半径</p>
+<p>(1)周长=直径×∏=2×∏×半径</p>
+<p>C=∏d=2∏r</p>
+<p>(2)面积=半径×半径×∏</p>
+<p>9 圆柱体</p>
+<p>v:体积 h:高 s;底面积 r:底面半径 c:底面周长</p>
+<p>(1)侧面积=底面周长×高</p>
+<p>(2)表面积=侧面积+底面积×2</p>
+<p>(3)体积=底面积×高</p>
+<p>（4）体积＝侧面积÷2×半径</p>
+<p>10 圆锥体</p>
+<p>v:体积 h:高 s;底面积 r:底面半径</p>
+<p>体积=底面积×高÷3</p>
+<p>)</p>
+<p>奥数常用公式：</p>
+<p>和差问题的公式</p>
+<p>(和＋差)÷2＝大数</p>
+<p>(和－差)÷2＝小数</p>
+<p>和倍问题</p>
+<p>和÷(倍数－1)＝小数</p>
+<p>小数×倍数＝大数</p>
+<p>(或者 和－小数＝大数)</p>
+<p>差倍问题</p>
+<p>差÷(倍数－1)＝小数</p>
+<p>小数×倍数＝大数</p>
+<p>(或 小数＋差＝大数)</p>
+<p>植树问题</p>
+<p>1 非封闭线路上的植树问题主要可分为以下三种情形:</p>
+<p>⑴如果在非封闭线路的两端都要植树,那么:</p>
+<p>全长＝株距×(株数－1)</p>
+<p>株距＝全长÷(株数－1)</p>
+<p>⑵如果在非封闭线路的一端要植树,另一端不要植树,那么:</p>
+<p>株数＝段数＝全长÷株距</p>
+<p>全长＝株距×株数</p>
+<p>株距＝全长÷株数</p>
+<p>⑶如果在非封闭线路的两端都不要植树,那么</p>
+<p>株数＝段数－1＝全长÷株距－1</p>
+<p>全长＝株距×(株数＋1)</p>
+<p>株距＝全长÷(株数＋1) .</p>
+<p>2 封闭线路上的植树问题的数量关系如下</p>
+<p>株数＝段数＝全长÷株距</p>
+<p>全长＝株距×株数</p>
+<p>株距＝全长÷株数</p>
+<p>盈亏问题</p>
+<p>(盈＋亏)÷两次分配量之差＝参加分配的份数</p>
+<p>(大盈－小盈)÷两次分配量之差＝参加分配的份数</p>
+<p>(大亏－小亏)÷两次分配量之差＝参加分配的份数</p>
+<p>相遇问题</p>
+<p>相遇路程＝速度和×相遇时间</p>
+<p>相遇时间＝相遇路程÷速度和</p>
+<p>速度和＝相遇路程÷相遇时间</p>
+<p>追及问题</p>
+<p>追及距离＝速度差×追及时间</p>
+<p>追及时间＝追及距离÷速度差</p>
+<p>速度差＝追及距离÷追及时间</p>
+<p>流水问题</p>
+<p>顺流速度＝静水速度＋水流速度</p>
+<p>逆流速度＝静水速度－水流速度</p>
+<p>浓度问题 ,</p>
+<p>溶质的重量＋溶剂的重量＝溶液的重量</p>
+<p>溶质的重量÷溶液的重量×100%＝浓度</p>
+<p>溶液的重量×浓度＝溶质的重量</p>
+<p>溶质的重量÷浓度＝溶液的重量</p>
+<p>利润与折扣问题</p>
+<p>利润＝售出价－成本</p>
+<p>利润率＝利润÷成本×100%＝(售出价÷成本－1)×100%</p>
+<p>涨跌金额＝本金×涨跌百分比</p>
+<p>折扣＝实际售价÷原售价×100%</p>
+<p>利息＝本金×利率×时间</p>
+<p>税后利息＝本金×利率×时间×(1－20%)</p>
+<p>长度单位换算：</p>
+<p>1千米=1000米 1米=10分米 )</p>
+<p>1分米=10厘米 1米=100厘米</p>
+<p>1厘米=10毫米</p>
+<p>面积单位换算</p>
+<p>1平方千米=100公顷</p>
+<p>1公顷=10000平方米</p>
+<p>1平方米=100平方分米</p>
+<p>1平方分米=100平方厘米</p>
+<p>1平方厘米=100平方毫米 .</p>
+<p>体(容)积单位换算</p>
+<p>1立方米=1000立方分米</p>
+<p>1立方分米=1000立方厘米 :</p>
+<p>1立方分米=1升 .</p>
+<p>1立方厘米=1毫升</p>
+<p>1立方米=1000升</p>
+<p>重量单位换算：</p>
+<p>1吨=1000 千克</p>
+<p>1千克=1000克</p>
+<p>1千克=1公斤</p>
+<p>人民币单位换算</p>
+<p>1元=10角</p>
+<p>1角=10分</p>
+<p>1元=100分</p>
+<p>时间单位换算</p>
+<p>1世纪=100年 1年=12月</p>
+<p>大月(31天)有:1\3\5\7\8\10\12月</p>
+<p>小月(30天)的有:4\6\9\11月</p>
+<p>平年2月28天, 闰年2月29天</p>
+<p>平年全年365天, 闰年全年366天 ’</p>
+<p>1日=24小时 1时=60分 ,</p>
+<p>1分=60秒 1时=3600秒</p>
+<p>几何形体周长 面积 体积计算公式</p>
+<ul>
+<li></li>
+</ul>
+<p>1、长方形的周长=（长+宽）×2</p>
+<p>2、正方形的周长=边长×4 C=4a</p>
+<p>3、长方形的面积=长×宽 S=ab</p>
+<p>4、正方形的面积=边长×边长 S=a.a</p>
+<p>5、三角形的面积=底×高÷2 S=ah÷2</p>
+<p>6、平行四边形的面积=底×高 S=ah :</p>
+<p>7、梯形的面积=（上底+下底）×高÷2 S=（a＋b）h÷2</p>
+<p>8、直径=半径×2 d=2r 半径=直径÷2 r= d÷2</p>
+<p>9、圆的周长=圆周率×直径=圆周率×半径×2 c=πd =2πr</p>
+<p>10、圆的面积=圆周率×半径×半径</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>言射学习</tag>
+        <tag>小学奥数</tag>
       </tags>
   </entry>
   <entry>
@@ -322,175 +1070,6 @@ PS：最近谣言比较多，大家听见有关于侮辱我的，千万不要信
       <tags>
         <tag>游记</tag>
         <tag>学校</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小学奥数公式</title>
-    <url>/posts/1563617092/</url>
-    <content><![CDATA[<div class=".article-gallery"><p>1、 每份数×份数＝总数 总数÷每份数＝份数总数÷份数＝每份数</p>
-<p>2、 1倍数×倍数＝几倍数 几倍数÷1倍数＝倍数几倍数÷倍数＝1倍数</p>
-<p>3、 速度×时间＝路程 路程÷速度＝时间 路程÷时间＝速度</p>
-<p>4、 单价×数量＝总价 总价÷单价＝数量 总价÷数量＝单价</p>
-<p>5、 工作效率×工作时间＝工作总量 工作总量÷工作效率＝工作时间工作总量÷工作时间＝工作效率</p>
-<p>6、 加数＋加数＝和 和－一个加数＝另一个加数</p>
-<span id="more"></span>
-<p>7、 被减数－减数＝差 被减数－差＝减数 差＋减数＝被减数</p>
-<p>8、 因数×因数＝积 积÷一个因数＝另一个因数</p>
-<p>9、 被除数÷除数＝商 被除数÷商＝除数 商×除数＝被除数</p>
-<p>-图形计算公式：</p>
-<p>1 、正方形 C周长 S面积 a边长 周长＝边长×4 C=4a 面积=边长×边长</p>
-<p>2 、正方体 V:体积 a:棱长 表面积=棱长×棱长×6 S表=a×a×6 体积=棱长×棱长×棱长 V=a×a×a</p>
-<p>3 、长方形 C周长 S面积 a边长</p>
-<p>周长=(长+宽)×2</p>
-<p>C=2(a+b)</p>
-<p>面积=长×宽</p>
-<p>S=ab</p>
-<p>4 、长方体</p>
-<p>V:体积 s:面积 a:长 b: 宽 h:高 . |</p>
-<p>(1)表面积(长×宽+长×高+宽×高)×2</p>
-<p>S=2(ab+ah+bh)</p>
-<p>(2)体积=长×宽×高</p>
-<p>V=abh</p>
-<p>5 三角形</p>
-<p>s面积 a底 h高</p>
-<p>面积=底×高÷2</p>
-<p>s=ah÷2</p>
-<p>三角形高=面积 ×2÷底</p>
-<p>三角形底=面积 ×2÷高</p>
-<p>6 平行四边形</p>
-<p>s面积 a底 h高</p>
-<p>面积=底×高</p>
-<p>s=ah</p>
-<p>7 梯形</p>
-<p>s面积 a上底 b下底 h高</p>
-<p>面积=(上底+下底)×高÷2</p>
-<p>s=(a+b)× h÷2</p>
-<p>8 圆形 ,</p>
-<p>S面积 C周长 ∏ d=直径 r=半径</p>
-<p>(1)周长=直径×∏=2×∏×半径</p>
-<p>C=∏d=2∏r</p>
-<p>(2)面积=半径×半径×∏</p>
-<p>9 圆柱体</p>
-<p>v:体积 h:高 s;底面积 r:底面半径 c:底面周长</p>
-<p>(1)侧面积=底面周长×高</p>
-<p>(2)表面积=侧面积+底面积×2</p>
-<p>(3)体积=底面积×高</p>
-<p>（4）体积＝侧面积÷2×半径</p>
-<p>10 圆锥体</p>
-<p>v:体积 h:高 s;底面积 r:底面半径</p>
-<p>体积=底面积×高÷3</p>
-<p>)</p>
-<p>奥数常用公式：</p>
-<p>和差问题的公式</p>
-<p>(和＋差)÷2＝大数</p>
-<p>(和－差)÷2＝小数</p>
-<p>和倍问题</p>
-<p>和÷(倍数－1)＝小数</p>
-<p>小数×倍数＝大数</p>
-<p>(或者 和－小数＝大数)</p>
-<p>差倍问题</p>
-<p>差÷(倍数－1)＝小数</p>
-<p>小数×倍数＝大数</p>
-<p>(或 小数＋差＝大数)</p>
-<p>植树问题</p>
-<p>1 非封闭线路上的植树问题主要可分为以下三种情形:</p>
-<p>⑴如果在非封闭线路的两端都要植树,那么:</p>
-<p>全长＝株距×(株数－1)</p>
-<p>株距＝全长÷(株数－1)</p>
-<p>⑵如果在非封闭线路的一端要植树,另一端不要植树,那么:</p>
-<p>株数＝段数＝全长÷株距</p>
-<p>全长＝株距×株数</p>
-<p>株距＝全长÷株数</p>
-<p>⑶如果在非封闭线路的两端都不要植树,那么</p>
-<p>株数＝段数－1＝全长÷株距－1</p>
-<p>全长＝株距×(株数＋1)</p>
-<p>株距＝全长÷(株数＋1) .</p>
-<p>2 封闭线路上的植树问题的数量关系如下</p>
-<p>株数＝段数＝全长÷株距</p>
-<p>全长＝株距×株数</p>
-<p>株距＝全长÷株数</p>
-<p>盈亏问题</p>
-<p>(盈＋亏)÷两次分配量之差＝参加分配的份数</p>
-<p>(大盈－小盈)÷两次分配量之差＝参加分配的份数</p>
-<p>(大亏－小亏)÷两次分配量之差＝参加分配的份数</p>
-<p>相遇问题</p>
-<p>相遇路程＝速度和×相遇时间</p>
-<p>相遇时间＝相遇路程÷速度和</p>
-<p>速度和＝相遇路程÷相遇时间</p>
-<p>追及问题</p>
-<p>追及距离＝速度差×追及时间</p>
-<p>追及时间＝追及距离÷速度差</p>
-<p>速度差＝追及距离÷追及时间</p>
-<p>流水问题</p>
-<p>顺流速度＝静水速度＋水流速度</p>
-<p>逆流速度＝静水速度－水流速度</p>
-<p>浓度问题 ,</p>
-<p>溶质的重量＋溶剂的重量＝溶液的重量</p>
-<p>溶质的重量÷溶液的重量×100%＝浓度</p>
-<p>溶液的重量×浓度＝溶质的重量</p>
-<p>溶质的重量÷浓度＝溶液的重量</p>
-<p>利润与折扣问题</p>
-<p>利润＝售出价－成本</p>
-<p>利润率＝利润÷成本×100%＝(售出价÷成本－1)×100%</p>
-<p>涨跌金额＝本金×涨跌百分比</p>
-<p>折扣＝实际售价÷原售价×100%</p>
-<p>利息＝本金×利率×时间</p>
-<p>税后利息＝本金×利率×时间×(1－20%)</p>
-<p>长度单位换算：</p>
-<p>1千米=1000米 1米=10分米 )</p>
-<p>1分米=10厘米 1米=100厘米</p>
-<p>1厘米=10毫米</p>
-<p>面积单位换算</p>
-<p>1平方千米=100公顷</p>
-<p>1公顷=10000平方米</p>
-<p>1平方米=100平方分米</p>
-<p>1平方分米=100平方厘米</p>
-<p>1平方厘米=100平方毫米 .</p>
-<p>体(容)积单位换算</p>
-<p>1立方米=1000立方分米</p>
-<p>1立方分米=1000立方厘米 :</p>
-<p>1立方分米=1升 .</p>
-<p>1立方厘米=1毫升</p>
-<p>1立方米=1000升</p>
-<p>重量单位换算：</p>
-<p>1吨=1000 千克</p>
-<p>1千克=1000克</p>
-<p>1千克=1公斤</p>
-<p>人民币单位换算</p>
-<p>1元=10角</p>
-<p>1角=10分</p>
-<p>1元=100分</p>
-<p>时间单位换算</p>
-<p>1世纪=100年 1年=12月</p>
-<p>大月(31天)有:1\3\5\7\8\10\12月</p>
-<p>小月(30天)的有:4\6\9\11月</p>
-<p>平年2月28天, 闰年2月29天</p>
-<p>平年全年365天, 闰年全年366天 ’</p>
-<p>1日=24小时 1时=60分 ,</p>
-<p>1分=60秒 1时=3600秒</p>
-<p>几何形体周长 面积 体积计算公式</p>
-<ul>
-<li></li>
-</ul>
-<p>1、长方形的周长=（长+宽）×2</p>
-<p>2、正方形的周长=边长×4 C=4a</p>
-<p>3、长方形的面积=长×宽 S=ab</p>
-<p>4、正方形的面积=边长×边长 S=a.a</p>
-<p>5、三角形的面积=底×高÷2 S=ah÷2</p>
-<p>6、平行四边形的面积=底×高 S=ah :</p>
-<p>7、梯形的面积=（上底+下底）×高÷2 S=（a＋b）h÷2</p>
-<p>8、直径=半径×2 d=2r 半径=直径÷2 r= d÷2</p>
-<p>9、圆的周长=圆周率×直径=圆周率×半径×2 c=πd =2πr</p>
-<p>10、圆的面积=圆周率×半径×半径</p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>言射学习</tag>
-        <tag>小学奥数</tag>
       </tags>
   </entry>
   <entry>
@@ -742,130 +1321,10 @@ emmm……<br>
       </tags>
   </entry>
   <entry>
-    <title>学校游记4（未完待续……）</title>
-    <url>/posts/20400546/</url>
-    <content><![CDATA[<div class=".article-gallery"><h2 id="2022413"><a class="markdownIt-Anchor" href="#2022413"></a> 2022.4.13</h2>
-<p>《我和我的同住》<br>
-《我和我的同住》<br>
-《我和我的同住》</p>
-<span id="more"></span>
-<h2 id="2022414"><a class="markdownIt-Anchor" href="#2022414"></a> 2022.4.14</h2>
-<p><a href="https://xys-blog.cf/posts/3919692788/">look!</a></p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>游记</tag>
-        <tag>学校</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>学校游记3</title>
-    <url>/posts/3479680266/</url>
-    <content><![CDATA[<div class=".article-gallery"><h2 id="202237"><a class="markdownIt-Anchor" href="#202237"></a> 2022.3.7</h2>
-<p>最近网站出现了一些问题，我们正在修复，带来不便麻烦谅解。</p>
-<span id="more"></span>
-<h2 id="2022310"><a class="markdownIt-Anchor" href="#2022310"></a> 2022.3.10</h2>
-<p>好好好，简要说明一下最近遇到的一些问题<br>
-那个不就是我搞了个微信公众号嘛<br>
-如何月入让我找一些学习资料<br>
-我照办了<br>
-然后就侵权了<br>
-导致之前的文章全部被删掉<br>
-而且每次发文章都要冒着风险<br>
-所以……<br>
-辜负大家了……<br>
-抱歉……<br>
-另外……<br>
-他们可能查到这个网站上<br>
-所以我将进行一系列的调整<br>
-对不起大家……</p>
-<h2 id="2022321"><a class="markdownIt-Anchor" href="#2022321"></a> 2022.3.21</h2>
-<p>从明天起，日记将开始恢复正常。</p>
-<h2 id="2022322"><a class="markdownIt-Anchor" href="#2022322"></a> 2022.3.22</h2>
-<p>很好<br>
-汇报一下战绩<br>
-<s>（不忍直视，直接删除）</s><br>
-算了，说一下作文的事吧 <s>（再皮一下）</s><br>
-我写了，但不肯发出来，(<em><sup>▽</sup></em>)<br>
-所以给大家安利一个<br>
-《作文生成器》<br>
-链接：<a href="https://suulnnka.github.io/BullshitGenerator/index.html">https://suulnnka.github.io/BullshitGenerator/index.html</a><br>
-嘿嘿，秒生！！！<br>
-比如说……<br>
-<a href="https://suulnnka.github.io/BullshitGenerator/index.html?%E4%B8%BB%E9%A2%98=%E8%B0%A2%E8%A8%80%E5%B0%84%E6%98%AF%E7%8C%AA&amp;%E9%9A%8F%E6%9C%BA%E7%A7%8D%E5%AD%90=2453136790">这个</a></p>
-<p>嘿嘿，试试<br>
-<s>试试将这样的作文交给老师</s></p>
-<h2 id="2022323"><a class="markdownIt-Anchor" href="#2022323"></a> 2022.3.23</h2>
-<p>要考试了，赶紧复习！！！！</p>
-<h2 id="2022328"><a class="markdownIt-Anchor" href="#2022328"></a> 2022.3.28</h2>
-<p>很好，今天又开始写日记了<br>
-今天嘛……<br>
-我们有一位同学没有来<br>
-但……<br>
-算了，不要去推理人家了<br>
-本来想把界面调灰色的<br>
-但懒，不想调，所以……<br>
-还是发张图纪念吧……</p>
-<p><a href="https://pic1.zhimg.com/80/v2-b8fa0f4e9fde5b5e5e1600a8ee5b755a_1440w.jpg" class="gallery-item"><img src="https://pic1.zhimg.com/80/v2-b8fa0f4e9fde5b5e5e1600a8ee5b755a_1440w.jpg" alt=""></a></p>
-<p>逝者平安，一路走好……</p>
-<h2 id="2022329"><a class="markdownIt-Anchor" href="#2022329"></a> 2022.3.29</h2>
-<p>我在做一件大事，先咕咕咕一期</p>
-<h2 id="202241"><a class="markdownIt-Anchor" href="#202241"></a> 2022.4.1</h2>
-<p>愚人节快乐~<br>
-慢慢听吧</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=3&amp;id=2500631011&amp;auto=1&amp;height=66"></iframe>
-<p>我还有事，先走了</p>
-<h2 id="202248"><a class="markdownIt-Anchor" href="#202248"></a> 2022.4.8</h2>
-<p>啊~<br>
-咕咕咕了那么多期，总算复学了<br>
-明天数学第四单元正宗试卷要测试，请及时复习！！！<br>
-明天数学第四单元正宗试卷要测试，请及时复习！！！<br>
-明天数学第四单元正宗试卷要测试，请及时复习！！！<br>
-再来回顾一下今天的试卷（第一单元的正宗试卷）<br>
-第一题，就是<br>
-<strong>正数和负数是什么的量？</strong><br>
-我写了“相对”<br>
-但教科书上是“相反”<br>
-啊啊啊啊啊啊啊啊<br>
-要知道，我一开始写了“相反”<br>
-然后改成了“相对”<br>
-又写了“相反”<br>
-最后还是写了“相对”……<br>
-😥<br>
-嘿嘿，还好<br>
-我去问了一下我们<s>亲爱的</s>网友<br>
-他们说：</p>
-<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/fanandduei.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/fanandduei.png" alt=""></a></p>
-<p>给了我<s>受伤的小心灵</s>一点安慰<br>
-😰</p>
-<h2 id="2022412"><a class="markdownIt-Anchor" href="#2022412"></a> 2022.4.12</h2>
-<p>啊啊啊啊，怎么又考试啊啊啊！！！！<br>
-<s>天生我材必有用，奈何分数不够用</s><br>
-啊啊啊啊，那个zyh真的是<br>
-都没检查好就给我拿走了<br>
-鹅妈妈……<br>
-ε=(´ο｀*)))唉<br>
-<a href="https://api.solstice23.top/countdown/?date=1649822400&amp;type=1&amp;formatType=7&amp;fontSize=30&amp;color=5e72e4&amp;left=%E8%BF%98%E6%9C%89%20&amp;right=%20%E6%88%91%E5%B0%B1%E8%A6%81%E5%87%89%E5%87%89%E4%BA%86%E2%80%A6%E2%80%A6" class="gallery-item"><img src="https://api.solstice23.top/countdown/?date=1649822400&amp;type=1&amp;formatType=7&amp;fontSize=30&amp;color=5e72e4&amp;left=%E8%BF%98%E6%9C%89%20&amp;right=%20%E6%88%91%E5%B0%B1%E8%A6%81%E5%87%89%E5%87%89%E4%BA%86%E2%80%A6%E2%80%A6" alt=""></a></p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>游记</tag>
-        <tag>学校</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小黑屋（黑名单）</title>
-    <url>/posts/2531786604/</url>
+    <title>言射源码博客1.0发布会</title>
+    <url>/posts/1592740662/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="7d7f95364a6f0f5e7c026cc573fa38ed51d2cafb447ae79cf95d9aa2aaef5eff">51d714a1c2f3105f7d25e4a48f156d97c80f6bdf54fc301b6c85e0382c47a3e69928af2bf20479b149deed996c8a3d32fb97419c8966bf0daa044bea32a4fbbad517f25128db74abb19f35d9dc2b76a5cb56ecf229133eb9be968ab4992c8e56d526328592a07121a5729ae7518356e0fda2b34a23985f53039d5dce3ecd663d84a3999073c501dca7acb28942c5a89b55cd710901d43cbe3cf0515a1d6aaa1700091aa0350d3fca32d3203ea840f18658d582c7dd30ac7e83deae04ce659e67025cd3647c03e2db966da7104b8e22d03ec361cbdd5cc7c3f5051878d48653723244c9ad7b04cfe5b4ebdd9cfa3b61315f0aec669d068965ae4072726896c64cecbaf673160a4e178e70e972fe4fda6b096acbaf29b1c928cb604313e45f9ec21ee1e5feca45576a651f6f9b96f8f31040e36296eca7bb5df2659e44289b986b5f9ccacb394455745c1e64c083e691d01213343a7a97b9ee42a3ef5b415ccbe4f787c22c1fc7b3a25401de80a071ac21be4b4d49dfbef3409b138665cc07228361630c739b5e2d76e7f655c049042f2d5bb03fbf7076248a95fe48c7bb8d5ca2e8db80104ee411a5b714f997d241e2be4d2cb29477b63894749733f2cc87bff7c63e3941e3caab30b17af9c686eab9467fe795e2e9022956cf3c939d59c11232fcbd72d400ad80b33c56d1c8f5e77d2ff4c8dcb5e6f73134661bb07d6cd5343a47b1140ec354ec8079b9665078611ea4776d76bd46ed62a65b9dfe155d528b58ca6fa13e4ba0e3744045d191c1a91617f8ef343eb808cbd561016bbd4670e37c4b605b425d2a813a88ace24e674171c2cf3d6b2f5024a1d2f65f6fac1e364b43be542a7cb5c674a7849ab6d6563344a95a84adda77ae38bf441d1bff4f03384e07749f335b6a78d76d2e5bf710f2f61caebf6903745a5f789e28f459d8958d0eefc8f425a21044315bf12596f4a7d12c525c0a1694e656a120dfd6eade3f7203d6548a54dc161bb967bc563a1f1f11950e25bce6d0973fdd46f596354d23486384dadb71a7df86921d6e25f73180796e1a9aca1a3194d8d89745a6d61b8640aed19f2fc5cc267e5a24f2e31b6e52c866273aeab301c80b4fc827c2ae82324d1e5f6b0e4564b81fa974e22dc3db7a23fb28a53b633b94267dfffffe3a25d109b89388e162f05ba90c025552e902929c2959a0516304e78c32d8a0aede39c61233890ec125e28e0fbc8f8aa8e59e207618b183de33c6e6bf0469af314e0ae48cd0585f9ab0677e427b0a12a254e88efb37705318def9b415f29046cc0922f6c3c817a230e157d2ed0f01b675c084419a1e994fa87a726a9b316872170bca8087a3e2e009eafc838fb98460483156c324558a09d5134dc59dd05d3fac6c96059c3cbde6c13d4e1dbc9fb9e1675ba8dc5a1d95ba8f86e695c1e787988fea5a1ab081b162dace28e5d0adf58bfa63c98052559fa90377035d7ad995efcabac18bb1dfaf6f204f7b135b9f3cb45b97de50bc8df7cc6dc70396654ce247f286702e6f2b0c4f92270993a830a87bf3d9c82527a1d6acf61b2d4a2d70bdc2b88c8bdcbde423237fa27a1c0327d8a3f50d641f7f8ae33330646a5d47fce891228dc3db6376070fda052b572628547e9510ae1aedf0267d97cf2cab8ceaa3ee064f9f66e93f42a154a0887cc55635308dce19228d86dd9922357f503f20643ddba344ef8bd2212edd31ca114b2ba5c1cf9fb87771eedcf0a351e1b90d0fa68c94727f0ad5728fbe72847f7b571d674280faee6fb32eceb1e2b4038bf8f8b488d4115930246abc9c950122ad24b884b38587a6c43ad61e6d1e862ebb3ad881c031ddbb7141f676372e5dab032cf1ee2dbeb256c103d652e3e2355c378f9216673d982ea50ed402447df5890643f9f9e790b90e7716d774bda9bcf373495b6a806c1f5180738999bf2d0997b1493a996c786e953474a30813e63989ded393e2e6f4f34b347b368a43fcd092a1b97600a6ef2cdcc600e884e584953b113f60732655cebf6c752cb3d75187d4633b1a6330475c0b161ab50a9bbbbe635af71e245251deb3ba62acd34528f3151aec207913523c41f113f5f1e05fd598d731231b266ae2d9d099814fe42b9034ea30be8468989080c1b0e9a298dea7e5f33d5a7389ef1a9e6d606850d324cdce05606cf753a8b85915622e0e44ce7bd59c0b658f7a5dcab81fa90d801e0f2c353ded7d42d6392eba7668a63d43a5b1535e8231865e98afe5ace3115445ff1f7c59a51657ff6226569ec75118b2b6f487f2fa7eb62e958cba97e633</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="a71dacf8be3c32d3ee676e1df61d0b7cf25dc3c218286dafbd4928b44415f49f">4630436162ade97ba2718b7d0c4b3b6334fd4ee00636305f1fafcc50b95360ecf63ae5c6e4991737318dd67d6453679b9c74b1d5b2db99d14ab7ab932760a6675639d54a299189848d6000d437e0c494867fc737bd278623cf2a895ff9b3a37062c6eb0bb90a7970c95983ba01b6b1e5e690c51fd64846c77ad4ce8c19b3d0ea235faa692ff786a07f92ba8e2252c92b3c1afcf50e310526a2b388ec550fa96048e4a921675999d927ee5c175f0eea0d166677fa75fe82426c5b0418126deab4776327810d1c572aaf33fd9ded2942eaac2e5fd32478e89737e9236b837c861d5144d50016579c8a575cd3a526640b90c7fd0da4a2c4f13b0389fc5207de3a2f42c8002309c0bff83a3b40f367af9b622f4072b2bf5cbb6a0eed46372095ac1395afcacd94cffaf01f5048e414cad9c7a38769e64d611bf69e6727254fba9f827625902dde4dabefc5d138da599e3faafe5b7d281c78adeb437dfa20ba862ed951d91fa46208e3dcc25ffcad64909287e5a9f2b57e0b0af576b01d08dc12249717630df6739a54df7aa1a20421bcb9e612f8a8617f801e985e84510e3e11d93a7a1fc2c19b2c8ca59b835cecf6242a3f8196f281369ae8415dac4d9f26f9a5caf7f078dc956c0ed117c2be64d041af3a35ca3bd104aaf4868529fecfee366f0bc8d03ddbaaddff07db1c0b3159d3f1d3f5177c0aabd0e437a7d6b18ec769efd0b452f80b47aa46de039e5bc9397abc45ddd2780a1d450f97dde90daa045449eb934212d64e9a391c3b7b834c1576378dfb8d9e1a0ff4fc74ce6e0396d1eeddaee7d27086f0da299afb8736d3ae6bbd6b718005164e95eeb94731efe01ebb196ad1ffae4f9c6e30db89e9223a188c3172994a31076659ff9e48c87e464603c1c0882ec0b9015250baeb9141e77279c01961e8fa83b6b2611765154c91ac1a246e135f207c16b6d6d154e847dd02a5d0e642224b63459d50f271ba6e19ef6f37bd4cd9cd165cadcf459f1b6b7d3483a8aa6ae499229f851cfdf9ada191cf70ef990e870ef9268cce0795bcd3f709196aeb0aa8e807b5819daf141b33145245910ffd9cdadedf0d332ffe5d8b3de075bf8d9c4ca8cf0f45cf8af2c30b08c3995066939e85d53ee84dc5d87488f9d8d8d00c97bc6bd5e7f7c35e47467b2fcbd9883440d104a288676687933b2bce398bbe0e160d95f4a1960c74e09aeb66e72a5929fd2cdd0abd287307e126591ebe84595b42d63742085f1f2c87909c8365811b061132f279abb8515995fb787c8a76a7fcdbfcc0b2b7f20c4238ceb3fd3ef2375be68a280158e61019cecce07539b78a2d380a9c6fc36613a7d596f66d6fcc4a4bf1a3c618986f0a95f55054b96fd26f4c8dee6daf0d948e6f5e935dda88ddabc666a612f4173b4db0f05383925a95c27d9b834b832ea7934b603c47d3f0196c7eee10c0a05213b2a9c49f22de15c9b1cb4c20ff3b5a24de7236ebaa06fcf5df6fd3734826070dff217f51df0877048215dd3b2570333a298c1f89143a8ae315be27732d1b2a7350cc573251e7e1b8debacf3c2ce7c9ca3759024b18a7d469d5e1f767192fad40f200042e38d1c7930245</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -876,418 +1335,11 @@ emmm……<br>
   </div>
 </div>
 <script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-  </entry>
-  <entry>
-    <title>常见网络用语大全</title>
-    <url>/posts/3791692339/</url>
-    <content><![CDATA[<div class=".article-gallery"></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-  </entry>
-  <entry>
-    <title>小学数学必背公式</title>
-    <url>/posts/336091895/</url>
-    <content><![CDATA[<div class=".article-gallery"><p>概 念</p>
-<p>1、加法交换律：两数相加交换加数的位置，和不变。</p>
-<p>2、加法结合律：三个数相加，先把前两个数相加，或先把后两个数相加，再同第三个数相加，和不变。</p>
-<p>3、乘法交换律：两数相乘，交换因数的位置，积不变。</p>
-<p>4、乘法结合律：三个数相乘，先把前两个数相乘，或先把后两个数相乘，再和第三个数相乘，它们的积不变。</p>
-<p>5、乘法分配律：两个数的和同一个数相乘，可以把两个加数分别同这个数相乘，再把两个积相加，结果不变。如：（2+4）×5＝2×5+4×5</p>
-<p>6、除法的性质：在除法里，被除数和除数同时扩大（或缩小）相同的倍数，商不变。O除以任何不是O的数都得O。</p>
-<span id="more"></span>
-<p>简便乘法：被乘数、乘数末尾有O的乘法，可以先把O前面的相乘，零不参加运算，有几个零都落下，添在积的末尾。</p>
-<p>7、么叫等式？等号左边的数值与等号右边的数值相等的式子叫做等式。</p>
-<p>等式的基本性质：等式两边同时乘以（或除以）一个相同的数，等式仍然成立。</p>
-<p>8、什么叫方程式？答：含有未知数的等式叫方程式。</p>
-<p>9、 什么叫一元一次方程式？答：含有一个未知数，并且未知数的次数是一次的等式叫做一元一次方程式。学会一元一次方程式的例法及计算。即例出代有χ的算式并计算。</p>
-<p>10、分数：把单位“1”平均分成若干份，表示这样的一份或几分的数,叫做分数。</p>
-<p>11、分数的加减法则：同分母的分数相加减，只把分子相加减，分母不变。异分母的分数相加减，先通分，然后再加减。</p>
-<p>12、分数大小的比较：同分母的分数相比较，分子大的大，分子小的小。异分母的分数相比较，先通分然后再比较；若分子相同，分母大的反而小。</p>
-<p>13、分数乘整数，用分数的分子和整数相乘的积作分子，分母不变。</p>
-<p>14、分数乘分数，用分子相乘的积作分子，分母相乘的积作为分母。</p>
-<p>15、分数除以整数（0除外），等于分数乘以这个整数的倒数。</p>
-<p>16、真分数：分子比分母小的分数叫做真分数。</p>
-<p>17、假分数：分子比分母大或者分子和分母相等的分数叫做假分数。假分数大于或等于1。</p>
-<p>18、带分数：把假分数写成整数和真分数的形式，叫做带分数。</p>
-<p>19、分数的基本性质：分数的分子和分母同时乘以或除以同一个数（0除外），分数的大小不变。</p>
-<p>20、一个数除以分数，等于这个数乘以分数的倒数。</p>
-<p>21、甲数除以乙数（0除外），等于甲数乘以乙数的倒数。</p>
-<p>分数的加、减法则：同分母的分数相加减，只把分子相加减，分母不变。异分母的分数相加减，先通分，然后再加减。</p>
-<p>分数的乘法则：用分子的积做分子，用分母的积做分母。</p>
-<p>22、什么叫比：两个数相除就叫做两个数的比。如：2÷5或3:6或1/3，比的前项和后项同时乘以或除以一个相同的数（0除外），比值不变。</p>
-<p>23、什么叫比例：表示两个比相等的式子叫做比例。如3:6＝9:18</p>
-<p>24、比例的基本性质：在比例里，两外项之积等于两内项之积。</p>
-<p>25、解比例：求比例中的未知项，叫做解比例。如3:χ＝9:18</p>
-<p>26、正比例：两种相关联的量，一种量变化，另一种量也随着化，如果这两种量中相对应的的比值（也就是商k）一定，这两种量就叫做成正比例的量，它们的关系就叫做正比例关系。如：y/x=k( k一定)或kx=y</p>
-<p>27、反比例：两种相关联的量，一种量变化，另一种量也随着变化，如果这两种量中相对应的两个数的积一定，这两种量就叫做成反比例的量，它们的关系就叫做反比例关系。如：x×y = k( k一定)或k / x = y</p>
-<p>28、百分数：表示一个数是另一个数的百分之几的数，叫做百分数。百分数也叫做百分率或百分比。</p>
-<p>29、把小数化成百分数，只要把小数点向右移动两位，同时在后面添上百分号。其实，把小数化成百分数，只要把这个小数乘以100％就行了。</p>
-<p>30、把百分数化成小数，只要把百分号去掉，同时把小数点向左移动两位。</p>
-<p>31、把分数化成百分数，通常先把分数化成小数（除不尽时，通常保留三位小数），再把小数化成百分数。其实，把分数化成百分数，要先把分数化成小数后，再乘以100％就行了。</p>
-<p>32、把百分数化成分数，先把百分数改写成分数，能约分的要约成最简分数。</p>
-<p>33、要学会把小数化成分数和把分数化成小数的化发。</p>
-<p>34、最大公约数：几个数都能被同一个数一次性整除，这个数就叫做这几个数的最大公约数。（或几个数公有的约数，叫做这几个数的公约数。其中最大的一个，叫做最大公约数。）</p>
-<p>35、互质数：公约数只有1的两个数，叫做互质数。</p>
-<p>36、最小公倍数：几个数公有的倍数，叫做这几个数的公倍数，其中最小的一个叫做这几个数的最小公倍数。</p>
-<p>37、通分：把异分母分数的分别化成和原来分数相等的同分母的分数，叫做通分。（通分用最小公倍数）</p>
-<p>38、约分：把一个分数化成同它相等，但分子、分母都比较小的分数，叫做约分。（约分用最大公约数）</p>
-<p>39、最简分数：分子、分母是互质数的分数，叫做最简分数。</p>
-<p>40、分数计算到最后，得数必须化成最简分数。</p>
-<p>41、个位上是0、2、4、6、8的数，都能被2整除，即能用2进行</p>
-<p>42、约分。个位上是0或者5的数，都能被5整除，即能用5进行约分。在约分时应注意利用。</p>
-<p>43、偶数和奇数：能被2整除的数叫做偶数。不能被2整除的数叫做奇数。</p>
-<p>44、质数（素数）：一个数，如果只有1和它本身两个约数，这样的数叫做质数（或素数）。</p>
-<p>45、合数：一个数，如果除了1和它本身还有别的约数，这样的数叫做合数。1不是质数，也不是合数。</p>
-<p>46、利息＝本金×利率×时间（时间一般以年或月为单位，应与利率的单位相对应）</p>
-<p>47、利率：利息与本金的比值叫做利率。一年的利息与本金的比值叫做年利率。一月的利息与本金的比值叫做月利率。</p>
-<p>48、自然数：用来表示物体个数的整数，叫做自然数。0也是自然数。</p>
-<p>49、循环小数：一个小数，从小数部分的某一位起，一个数字或几个数字依次不断的重复出现，这样的小数叫做循环小数。如3. 141414</p>
-<p>50、不循环小数：一个小数，从小数部分起，没有一个数字或几个数字依次不断的重复出现，这样的小数叫做不循环小数。如圆周率：3. 141592654</p>
-<p>51、无限不循环小数：一个小数，从小数部分起到无限位数，没有一个数字或几个数字依次不断的重复出现，这样的小数叫做无限不循环小数。如3. 141592654……</p>
-<p>52、什么叫代数?代数就是用字母代替数。</p>
-<p>53、什么叫代数式?用字母表示的式子叫做代数式。如：3x =ab+c</p>
-<p>关系表达式</p>
-<p>1、每份数×份数＝总数总数÷每份数＝份数总数÷份数＝每份数</p>
-<p>2、 1倍数×倍数＝几倍数几倍数÷1倍数＝倍数几倍数÷倍数＝1倍数 3、速度×时间＝路程路程÷速度＝时间路程÷时间＝速度</p>
-<p>4、单价×数量＝总价总价÷单价＝数量总价÷数量＝单价</p>
-<p>5、工作效率×工作时间＝工作总量工作总量÷工作效率＝工作时间工作总量÷工作时间＝工作效率</p>
-<p>6、加数＋加数＝和和－一个加数＝另一个加数</p>
-<p>7、被减数－减数＝差被减数－差＝减数差＋减数＝被减数</p>
-<p>8、因数×因数＝积积÷一个因数＝另一个因数</p>
-<p>9、被除数÷除数＝商被除数÷商＝除数商×除数＝被除数</p>
-<p>总数÷总份数＝平均数</p>
-<p>和差问题的公式</p>
-<p>(和＋差)÷2＝大数</p>
-<p>(和－差)÷2＝小数</p>
-<p>和倍问题</p>
-<p>和÷(倍数－1)＝小数</p>
-<p>小数×倍数＝大数</p>
-<p>(或者和－小数＝大数)</p>
-<p>差倍问题</p>
-<p>差÷(倍数－1)＝小数</p>
-<p>小数×倍数＝大数</p>
-<p>(或小数＋差＝大数)</p>
-<p>植树问题</p>
-<p>1 非封闭线路上的植树问题主要可分为以下三种情形:</p>
-<p>⑴如果在非封闭线路的两端都要植树,那么:</p>
-<p>株数＝段数＋1＝全长÷株距－1</p>
-<p>全长＝株距×(株数－1)</p>
-<p>株距＝全长÷(株数－1)</p>
-<p>⑵如果在非封闭线路的一端要植树,另一端不要植树,那么:</p>
-<p>株数＝段数＝全长÷株距</p>
-<p>全长＝株距×株数</p>
-<p>株距＝全长÷株数</p>
-<p>⑶如果在非封闭线路的两端都不要植树,那么:</p>
-<p>株数＝段数－1＝全长÷株距－1</p>
-<p>全长＝株距×(株数＋1)</p>
-<p>株距＝全长÷(株数＋1)</p>
-<p>2 封闭线路上的植树问题的数量关系如下</p>
-<p>株数＝段数＝全长÷株距</p>
-<p>全长＝株距×株数</p>
-<p>株距＝全长÷株数</p>
-<p>盈亏问题</p>
-<p>(盈＋亏)÷两次分配量之差＝参加分配的份数</p>
-<p>(大盈－小盈)÷两次分配量之差＝参加分配的份数</p>
-<p>(大亏－小亏)÷两次分配量之差＝参加分配的份数</p>
-<p>相遇问题</p>
-<p>相遇路程＝速度和×相遇时间</p>
-<p>相遇时间＝相遇路程÷速度和</p>
-<p>速度和＝相遇路程÷相遇时间</p>
-<p>追及问题</p>
-<p>追及距离＝速度差×追及时间</p>
-<p>追及时间＝追及距离÷速度差</p>
-<p>速度差＝追及距离÷追及时间</p>
-<p>流水问题</p>
-<p>顺流速度＝静水速度＋水流速度</p>
-<p>逆流速度＝静水速度－水流速度</p>
-<p>静水速度＝(顺流速度＋逆流速度)÷2</p>
-<p>水流速度＝(顺流速度－逆流速度)÷2</p>
-<p>浓度问题</p>
-<p>溶质的重量＋溶剂的重量＝溶液的重量</p>
-<p>溶质的重量÷溶液的重量×100%＝浓度</p>
-<p>溶液的重量×浓度＝溶质的重量</p>
-<p>溶质的重量÷浓度＝溶液的重量</p>
-<p>利润与折扣问题</p>
-<p>利润＝售出价－成本</p>
-<p>利润率＝利润÷成本×100%＝(售出价÷成本－1)×100%</p>
-<p>涨跌金额＝本金×涨跌百分比</p>
-<p>折扣＝实际售价÷原售价×100%(折扣＜1)</p>
-<p>利息＝本金×利率×时间</p>
-<p>税后利息＝本金×利率×时间×(1－20%)</p>
-<p>单位间进率</p>
-<p>1公里＝1千米 1千米＝1000 米</p>
-<p>1米＝10分米 1分米＝10厘米 1厘米＝10毫米</p>
-<p>1平方米＝100平方分米 1平方分米＝100平方厘米 1平方厘米＝100平方毫米</p>
-<p>1立方米＝1000立方分米 1立方分米＝1000立方厘米 1立方厘米＝1000立方毫米</p>
-<p>1吨＝1000千克 1千克= 1000克= 1公斤= 1市斤</p>
-<p>1公顷＝10000平方米 1亩＝666.666平方米</p>
-<p>1升＝1立方分米＝1000毫升 1毫升＝1立方厘米</p>
-<p>面积单位换算</p>
-<p>1平方千米=100公顷</p>
-<p>1公顷=10000平方米</p>
-<p>1平方米=100平方分米</p>
-<p>1平方分米=100平方厘米</p>
-<p>1平方厘米=100平方毫米</p>
-<p>体(容)积单位换算</p>
-<p>1立方米=1000立方分米</p>
-<p>1立方分米=1000立方厘米</p>
-<p>1立方分米=1升</p>
-<p>1立方厘米=1毫升</p>
-<p>1立方米=1000升</p>
-<p>重量单位换算</p>
-<p>1吨=1000 千克</p>
-<p>1千克=1000克</p>
-<p>1千克=1公斤</p>
-<p>人民币单位换算</p>
-<p>1元=10角</p>
-<p>1角=10分</p>
-<p>1元=100分</p>
-<p>时间单位换算</p>
-<p>1世纪=100年 1年=12月</p>
-<p>大月(31天)有:135781012月</p>
-<p>小月(30天)的有:46911月</p>
-<p>平年2月28天, 闰年2月29天</p>
-<p>平年全年365天, 闰年全年366天</p>
-<p>1日=24小时 1时=60分</p>
-<p>1分=60秒 1时=3600秒</p>
-<p>几何形体周长面积体积计算公式</p>
-<p>1、长方形的周长=（长+宽）×2 C=(a+b)×2</p>
-<p>2、正方形的周长=边长×4 C=4a</p>
-<p>3、长方形的面积=长×宽 S=ab</p>
-<p>4、正方形的面积=边长×边长 S=a.a= a</p>
-<p>5、三角形的面积=底×高÷2 S=ah÷2</p>
-<p>6、平行四边形的面积=底×高 S=ah</p>
-<p>7、梯形的面积=（上底+下底）×高÷2 S=（a＋b）h÷2</p>
-<p>8、直径=半径×2 d=2r 半径=直径÷2 r= d÷2</p>
-<p>9、圆的周长=圆周率×直径=圆周率×半径×2 c=πd =2πr</p>
-<p>10、圆的面积=圆周率×半径×半径</p>
-<p>11、长方体的表面积＝（长×宽＋长×高＋宽×高） ×2 公式：S=（a×b+a×c+b×c）×2</p>
-<p>12、长方体的体积＝长×宽×高公式：V = abh</p>
-<p>13、正方体的表面积＝棱长×棱长×6 公式：S=6a2</p>
-<p>14、长方体（或正方体）的体积＝底面积×高公式：V = abh</p>
-<p>15、正方体的体积＝棱长×棱长×棱长公式：V = a3</p>
-<p>16、圆柱的表（侧）面积：圆柱的表（侧）面积等于底面的周长乘高。公式：S=ch=πdh＝2πrh</p>
-<p>17、圆柱的表面积：圆柱的表面积等于底面的周长乘高再加上两头的圆的面积。公式：S=ch+2s=ch+2πr2</p>
-<p>18、圆柱的体积：圆柱的体积等于底面积乘高。公式：V=Sh</p>
-<p>19、圆锥的体积＝1/3底面×积高。公式：V=1/3Sh</p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
       <tags>
-        <tag>言射学习</tag>
-        <tag>小学数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的心愿（六下第四单元习作）</title>
-    <url>/posts/4093402486/</url>
-    <content><![CDATA[<div class=".article-gallery"><p><a href="0.jpeg" title="其实,有些愿望不在于实现,想想也是美的(来源百度,侵删)" class="gallery-item"><img src="/.cf//0.jpeg" alt="其实,有些愿望不在于实现,想想也是美的(来源百度,侵删)"></a></p>
-<center>《我的心愿》</center>
-<p>我的心愿是什么？</p>
-<p>让我轻轻告诉你。</p>
-<p>让地球变得美丽，</p>
-<p>小河，不再浑浊，变得清澈；</p>
-<p>大地，不再荒凉，变得生气；</p>
-<p>天空，不再阴霾，变得灿烂。</p>
-<p>让无家可归的小动物拥有乐园；</p>
-<p>让乱丢的垃圾拥有各自的归宿；</p>
-<p>让人类与大自然和谐相处。</p>
-<p>保护环境，人人有责。</p>
-<p>我的心愿是什么？</p>
-<p>让我悄悄告诉你。</p>
-<p>让疫情快快过去，</p>
-<p>病毒，不再致病，变得有益；</p>
-<p>医生，不再疲惫，变得充沛；</p>
-<p>我们，不再惊慌，变得安定。</p>
-<p>让我们的家园从此再没有疫情；</p>
-<p>让每一个人都拥有健康的身体；</p>
-<p>让我们一起携手共克时艰。</p>
-<p>坚定信心，同舟共济。</p>
-<p>我的心愿是什么？</p>
-<p>让我慢慢告诉你。</p>
-<p>让我们努力进取，</p>
-<p>过去，不再留念，变得坦然；</p>
-<p>现在，不再退怯，变得勇敢；</p>
-<p>未来，不再迷茫，变得期待。</p>
-<p>让我们一起苦心励志心怀感恩；</p>
-<p>让我们不忘初心归来仍是少年；</p>
-<p>让我们回首过去展望未来。</p>
-<p>以梦为马，不负韶华。</p>
-<hr>
-<p>往期推荐</p>
-<ul>
-<li><a href="https://xys-blog.cf/posts/746134704">《红岩》梗概</a></li>
-<li><a href="https://xys-blog.cf/posts/3479680266">学校游记3（未完待续……）</a></li>
-<li><a href="https://xys-blog.cf/posts/336091895">小学数学必背公式</a></li>
-<li><a href="https://xys-blog.cf/posts/1563617092">小学奥数公式</a></li>
-<li><a href="https://xys-blog.cf/posts/1793860868">学校游记2</a></li>
-</ul>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>言射学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>文章目录</title>
-    <url>/posts/2044296166/</url>
-    <content><![CDATA[<div class=".article-gallery"><p>文章目录：<a href="https://xys-blog.cf/archives/">https://xys-blog.cf/archives/</a></p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>目录</tag>
         <tag>公告</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>言射歌单（内容来自网易云音乐）</title>
-    <url>/posts/3561598079/</url>
-    <content><![CDATA[<div class=".article-gallery"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
-<div class="admonition note"><p class="admonition-title">提示
-</p><p>以下内容均来自网易云音乐，侵删！！！</p>
-</div>
-<span id="more"></span>
-<h2 id="一-2022年初流行歌曲至少是我听得到"><a class="markdownIt-Anchor" href="#一-2022年初流行歌曲至少是我听得到"></a> 一、2022年初流行歌曲（至少是我听得到）</h2>
-<h3 id="no1-雪龙吟"><a class="markdownIt-Anchor" href="#no1-雪龙吟"></a> NO.1 雪龙吟</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1914933323">https://music.163.com/#/song?id=1914933323</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1914933323&amp;auto=1&amp;height=66"></iframe>
-<h3 id="no2-骁"><a class="markdownIt-Anchor" href="#no2-骁"></a> NO.2 骁</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1860864828">https://music.163.com/#/song?id=1860864828</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1860864828&amp;auto=1&amp;height=66"></iframe>
-<h3 id="no3-孤勇者"><a class="markdownIt-Anchor" href="#no3-孤勇者"></a> NO.3 孤勇者</h3>
-<p>链接： <a href="https://music.163.com/#/song?id=1901371647">https://music.163.com/#/song?id=1901371647</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1901371647&amp;auto=1&amp;height=66"></iframe>
-<h3 id="no4-星辰大海"><a class="markdownIt-Anchor" href="#no4-星辰大海"></a> NO.4 星辰大海</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1893699607">https://music.163.com/#/song?id=1893699607</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1893699607&amp;auto=1&amp;height=66"></iframe>
-<div class="admonition warning"><p class="admonition-title">PS
-</p><p>此音乐并非原版，因版权原因，此处放的是翻版</p>
-</div>
-<h3 id="no5-海市蜃楼"><a class="markdownIt-Anchor" href="#no5-海市蜃楼"></a> NO.5 海市蜃楼</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1831352877">https://music.163.com/#/song?id=1831352877</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1831352877&amp;auto=1&amp;height=66"></iframe>
-<div class="admonition warning"><p class="admonition-title">PS
-</p><p>此音乐并非原版，因版权原因，此处放的是翻版</p>
-</div>
-<h3 id="no6-起风了"><a class="markdownIt-Anchor" href="#no6-起风了"></a> NO.6 起风了</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1330348068">https://music.163.com/#/song?id=1330348068</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1330348068&amp;auto=1&amp;height=66"></iframe>
-<div class="admonition note"><p class="admonition-title">PS
-</p><p>此音乐为原版</p>
-</div>
-<h3 id="no7-错位时空"><a class="markdownIt-Anchor" href="#no7-错位时空"></a> NO.7 错位时空</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1808492017">https://music.163.com/#/song?id=1808492017</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1808492017&amp;auto=1&amp;height=66"></iframe>
-<h3 id="no8-一起向未来"><a class="markdownIt-Anchor" href="#no8-一起向未来"></a> NO.8 一起向未来</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1894606139">https://music.163.com/#/song?id=1894606139</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1894606139&amp;auto=1&amp;height=66"></iframe>
-<h3 id="no9-星河万里"><a class="markdownIt-Anchor" href="#no9-星河万里"></a> NO.9 星河万里</h3>
-<p>链接：<a href="https://music.163.com/#/song?id=1843704418">https://music.163.com/#/song?id=1843704418</a><br>
-在线即听：</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1843704418&amp;auto=1&amp;height=66"></iframe></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>歌曲</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>源码博客2.0发布会</title>
-    <url>/posts/2610740764/</url>
-    <content><![CDATA[<div class=".article-gallery"><h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1>
-<p>咳咳咳，开学前再做个发布会吧<br>
-今天，我谢言射郑重宣布，源码博客2.0正式发布！<br>
-<s>以后很少更新了</s><br>
-先不管他</p>
-<span id="more"></span>
-<h1 id="更新"><a class="markdownIt-Anchor" href="#更新"></a> 更新</h1>
-<h2 id="新增功能"><a class="markdownIt-Anchor" href="#新增功能"></a> 新增功能</h2>
-<h3 id="一只可爱的小狗"><a class="markdownIt-Anchor" href="#一只可爱的小狗"></a> 一只可爱的小狗</h3>
-<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741168.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741168.png" alt=""></a></p>
-<h3 id="新增聊天功能"><a class="markdownIt-Anchor" href="#新增聊天功能"></a> 新增聊天功能</h3>
-<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741250.png" title="图标" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741250.png" alt="图标"></a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741268.png" title="聊天界面" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741268.png" alt="聊天界面"></a></p>
-<h3 id="背景改了"><a class="markdownIt-Anchor" href="#背景改了"></a> 背景改了</h3>
-<p>（不给展示了，自己去看）</p>
-<h3 id="访问速度加快有自定义域名了重点"><a class="markdownIt-Anchor" href="#访问速度加快有自定义域名了重点"></a> 访问速度加快&amp;有自定义域名了！！！（重点）</h3>
-<p>域名换成了https://www.xys-blog.cf/<br>
-别再输之前那个了！！！<br>
-<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/QQ%E6%88%AA%E5%9B%BE20220213163948.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/QQ%E6%88%AA%E5%9B%BE20220213163948.png" alt=""></a></p>
-<p>PS：要域名的和我说一声，免费提供<strong>顶级域名</strong>（<a href="http://xn--siqw5lms6b.tk">后缀为.tk</a>,.ml,.ga,.gq,.cf的)</p>
-<h3 id="添加了文章密码保护"><a class="markdownIt-Anchor" href="#添加了文章密码保护"></a> 添加了文章密码保护</h3>
-<p>某些文章增加了密码保护，如果真的要看，请在我的微信公众号（Seth本人）回复【密码】获取。</p>
-<h3 id="还有很多"><a class="markdownIt-Anchor" href="#还有很多"></a> ……（还有很多）</h3>
-<h2 id="debug"><a class="markdownIt-Anchor" href="#debug"></a> DEBUG</h2>
-<h3 id="加快了网站的访问速度"><a class="markdownIt-Anchor" href="#加快了网站的访问速度"></a> 加快了网站的访问速度</h3>
-<h1 id="页面展示"><a class="markdownIt-Anchor" href="#页面展示"></a> 页面展示</h1>
-<p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644747240.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644747240.png" alt=""></a></p>
-<p>PS：别问我为什么这次图床够用了，因为我自己搭建了一个</p>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>源码博客</tag>
         <tag>发布会</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>警告信</title>
-    <url>/posts/918071535/</url>
-    <content><![CDATA[<div class=".article-gallery"><p>收到此信的人，麻烦将信的内容通知给造谣毁谤谢言射及谢言射团队的人。</p>
-<pre><code>以下内容经属实。
-
-2022年2月21日下午（大约13:30），@某某某同学向@谢言射同学提了一些关于谢言射博客文章的建议，但这一幕被
-@***同学误解了，并大喊：“谢言射出轨了！”（谢言射表示大雾，明明自己从未与某位同学发生过感情）（***同学）继续散播谣言，导致谢言射的形象大损。
-
-对此，谢言射团队进行了考证，***同学说的都是谣言，并警告凡是造过、传过有关毁谤谢言射及谢言射团队形象的
-同学。如果继续进行此行为，谢言射团队将会采取必要措施。
-
-（我们是有依据的）《中华人民共和国宪法》第三十八条明确标注了禁止用任何方法对公民进行侮辱、诽谤和诬告陷
-害。（原文：中华人民共和国公民的人格尊严不受侵犯。禁止用任何方法对公民进行侮辱、诽谤和诬告陷害。）（来
-自百度）
-
-这是最后一次警告了！！！
-
-
-                                                                                谢言射团队
-                                                                             2022年2月21日
-</code></pre>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>说说</tag>
+        <tag>博客</tag>
+        <tag>源码</tag>
       </tags>
   </entry>
   <entry>
@@ -1323,58 +1375,6 @@ emmm……<br>
       <tags>
         <tag>公告</tag>
         <tag>简介</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>言射源码博客1.0发布会</title>
-    <url>/posts/1592740662/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="a71dacf8be3c32d3ee676e1df61d0b7cf25dc3c218286dafbd4928b44415f49f">4630436162ade97ba2718b7d0c4b3b6334fd4ee00636305f1fafcc50b95360ecf63ae5c6e4991737318dd67d6453679b9c74b1d5b2db99d14ab7ab932760a6675639d54a299189848d6000d437e0c494867fc737bd278623cf2a895ff9b3a37062c6eb0bb90a7970c95983ba01b6b1e5e690c51fd64846c77ad4ce8c19b3d0ea235faa692ff786a07f92ba8e2252c92b3c1afcf50e310526a2b388ec550fa96048e4a921675999d927ee5c175f0eea0d166677fa75fe82426c5b0418126deab4776327810d1c572aaf33fd9ded2942eaac2e5fd32478e89737e9236b837c861d5144d50016579c8a575cd3a526640b90c7fd0da4a2c4f13b0389fc5207de3a2f42c8002309c0bff83a3b40f367af9b622f4072b2bf5cbb6a0eed46372095ac1395afcacd94cffaf01f5048e414cad9c7a38769e64d611bf69e6727254fba9f827625902dde4dabefc5d138da599e3faafe5b7d281c78adeb437dfa20ba862ed951d91fa46208e3dcc25ffcad64909287e5a9f2b57e0b0af576b01d08dc12249717630df6739a54df7aa1a20421bcb9e612f8a8617f801e985e84510e3e11d93a7a1fc2c19b2c8ca59b835cecf6242a3f8196f281369ae8415dac4d9f26f9a5caf7f078dc956c0ed117c2be64d041af3a35ca3bd104aaf4868529fecfee366f0bc8d03ddbaaddff07db1c0b3159d3f1d3f5177c0aabd0e437a7d6b18ec769efd0b452f80b47aa46de039e5bc9397abc45ddd2780a1d450f97dde90daa045449eb934212d64e9a391c3b7b834c1576378dfb8d9e1a0ff4fc74ce6e0396d1eeddaee7d27086f0da299afb8736d3ae6bbd6b718005164e95eeb94731efe01ebb196ad1ffae4f9c6e30db89e9223a188c3172994a31076659ff9e48c87e464603c1c0882ec0b9015250baeb9141e77279c01961e8fa83b6b2611765154c91ac1a246e135f207c16b6d6d154e847dd02a5d0e642224b63459d50f271ba6e19ef6f37bd4cd9cd165cadcf459f1b6b7d3483a8aa6ae499229f851cfdf9ada191cf70ef990e870ef9268cce0795bcd3f709196aeb0aa8e807b5819daf141b33145245910ffd9cdadedf0d332ffe5d8b3de075bf8d9c4ca8cf0f45cf8af2c30b08c3995066939e85d53ee84dc5d87488f9d8d8d00c97bc6bd5e7f7c35e47467b2fcbd9883440d104a288676687933b2bce398bbe0e160d95f4a1960c74e09aeb66e72a5929fd2cdd0abd287307e126591ebe84595b42d63742085f1f2c87909c8365811b061132f279abb8515995fb787c8a76a7fcdbfcc0b2b7f20c4238ceb3fd3ef2375be68a280158e61019cecce07539b78a2d380a9c6fc36613a7d596f66d6fcc4a4bf1a3c618986f0a95f55054b96fd26f4c8dee6daf0d948e6f5e935dda88ddabc666a612f4173b4db0f05383925a95c27d9b834b832ea7934b603c47d3f0196c7eee10c0a05213b2a9c49f22de15c9b1cb4c20ff3b5a24de7236ebaa06fcf5df6fd3734826070dff217f51df0877048215dd3b2570333a298c1f89143a8ae315be27732d1b2a7350cc573251e7e1b8debacf3c2ce7c9ca3759024b18a7d469d5e1f767192fad40f200042e38d1c7930245</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">这篇文章设置了密码，请点击此处以输入</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <tags>
-        <tag>公告</tag>
-        <tag>发布会</tag>
-        <tag>博客</tag>
-        <tag>源码</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>平凡（改编自朱自清的《匆匆》）</title>
-    <url>/posts/3919692788/</url>
-    <content><![CDATA[<div class=".article-gallery"><center>《平凡》</center>
-<p>燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。但是，聪明的，你告诉我，我们的满分为什么一去不复返呢？——是有人偷了他们罢：那是谁？又藏在何处呢？是他们自己逃走了罢：如今（现在）又到了哪里呢？</p>
-<span id="more"></span>
-<p>我不知道他们给了我多少满分，但我的手确乎是渐渐空虚了。在默默里算着，八千多满分已经从我手中溜去，像针尖上一滴水滴在大海里，我的满分滴在成绩的流里，没有声音，也没有影子。我不禁头涔涔而泪潸潸了。</p>
-<p>去的尽管去了，来的尽管来着；去来的中间，又怎样地平凡呢？早上我起来的时候，小屋里射进两三方斜斜的太阳。太阳他有脚啊，轻轻悄悄地挪移了；我也茫茫然跟着旋转。于是——洗手的时候，满分从水盆里过去；吃饭的时候，满分从饭碗里过去；默默时，便从凝然的双眼前过去。我觉察他去的平凡了，伸出手遮挽时，他又从遮挽着的手边过去，天黑时，我躺在床上，他便伶伶俐俐地从我身上跨过，从我脚边飞去了。等我睁开眼和太阳再见，这算又溜走了一日。我掩着面叹息。但是新来的满分的影儿又开始在叹息里闪过了。</p>
-<p>在逃去如飞的满分里，在千门万户的世界里的我能做些什么呢？只有徘徊罢了，只有平凡罢了；在八千多日的平凡里，除徘徊外，又剩些什么呢？过去的满分如轻烟，被微风吹散了，如薄雾，被初阳蒸融了；我留着些什么痕迹呢？我何曾留着像游丝样的痕迹呢？我赤裸裸来到这世界，转眼间也将赤裸裸的回去罢？但不能平的，为什么偏要白白走这一遭啊？</p>
-<p>你聪明的，告诉我，我们的满分为什么一去不复返呢？</p>
-<hr>
-<p>往期推荐</p>
-<ul>
-<li><a href="https://xys-blog.cf/posts/746134704">《红岩》梗概</a></li>
-<li><a href="https://xys-blog.cf/posts/3479680266">学校游记3</a></li>
-<li><a href="https://xys-blog.cf/posts/336091895">小学数学必背公式</a></li>
-<li><a href="https://xys-blog.cf/posts/1563617092">小学奥数公式</a></li>
-<li><a href="https://xys-blog.cf/posts/1793860868">学校游记2</a></li>
-</ul>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
-        var options = {
-            selector: '.gallery-item'
-        };
-        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
-        }</script>]]></content>
-      <tags>
-        <tag>文章改编</tag>
-        <tag>趣文</tag>
       </tags>
   </entry>
 </search>
