@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xys-blog.cf/posts/4293843122/</loc>
+    
+    <lastmod>2022-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xys-blog.cf/posts/20400546/</loc>
     
     <lastmod>2022-04-19</lastmod>
@@ -324,6 +333,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://xys-blog.cf/tags/hexo/</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xys-blog.cf/tags/github/</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://xys-blog.cf/tags/c/</loc>
