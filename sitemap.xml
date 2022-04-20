@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xys-blog.cf/404.html</loc>
+    
+    <lastmod>2022-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xys-blog.cf/posts/4293843122/</loc>
     
     <lastmod>2022-04-19</lastmod>
@@ -384,20 +393,6 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/tags/%E7%9B%AE%E5%BD%95/</loc>
-    <lastmod>2022-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xys-blog.cf/tags/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2022-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xys-blog.cf/tags/%E6%96%87%E7%AB%A0%E6%94%B9%E7%BC%96/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -406,6 +401,20 @@
   
   <url>
     <loc>https://xys-blog.cf/tags/%E8%B6%A3%E6%96%87/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xys-blog.cf/tags/%E7%9B%AE%E5%BD%95/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xys-blog.cf/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -426,21 +435,7 @@
   </url>
   
   <url>
-    <loc>https://xys-blog.cf/tags/%E6%AD%8C%E6%9B%B2/</loc>
-    <lastmod>2022-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xys-blog.cf/tags/%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2022-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xys-blog.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -455,6 +450,20 @@
   
   <url>
     <loc>https://xys-blog.cf/tags/%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xys-blog.cf/tags/%E8%AF%B4%E8%AF%B4/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xys-blog.cf/tags/%E6%AD%8C%E6%9B%B2/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
