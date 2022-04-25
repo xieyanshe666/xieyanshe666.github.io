@@ -1499,8 +1499,9 @@ PS：一般情况下，博主不会在博客中放附件，因为这样可能会
 再回车</p>
 <p>好，弹出了一个黑框框</p>
 <p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/14.1.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/14.1.png" alt=""></a></p>
-<p>然后查看当前时间，输入<br>
-time /t</p>
+<p>然后查看当前时间，输入</p>
+<pre><code>time /t
+</code></pre>
 <p>再换行<br>
 结果应该是系统现在的时间</p>
 <p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/14.2.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/14.2.png" alt=""></a></p>
@@ -1512,8 +1513,9 @@ time /t</p>
 <p>再换行<br>
 举个例子<br>
 比如说我现在是11点11分11秒<br>
-就输入<br>
-time 11:11:11</p>
+就输入</p>
+<pre><code>time 11:11:11
+</code></pre>
 <p>再换行</p>
 <p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/14.3.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/14.3.png" alt=""></a></p>
 <p>好了，现在试试，（浏览器）应该可以用了</p>
