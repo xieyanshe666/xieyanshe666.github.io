@@ -101,9 +101,6 @@
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
-      <categories>
-        <category>hexo搭建博客</category>
-      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>github</tag>
@@ -544,9 +541,6 @@ PS：一般情况下，博主不会在博客中放附件，因为这样可能会
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
-      <categories>
-        <category>hexo搭建博客</category>
-      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>github</tag>
