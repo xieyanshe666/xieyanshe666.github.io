@@ -67,7 +67,7 @@
   <entry>
     <title>谢言射教你用hexo+github搭建博客（2.本地搭建和github部署）</title>
     <url>/posts/3031762228/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+    <content><![CDATA[<div class=".article-gallery"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
 <p>基于<a href="https://xys-blog.cf/posts/4293843122/">第一章的准备工作</a>，现在开始搭建+部署博客</p>
 <h2 id="本地搭建"><a class="markdownIt-Anchor" href="#本地搭建"></a> 本地搭建</h2>
 <h3 id="安装hexo"><a class="markdownIt-Anchor" href="#安装hexo"></a> 安装hexo</h3>
