@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-04-30T13:37:46.952Z</updated>
+  <updated>2022-05-01T06:10:04.196Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://xys-blog.cf/posts/3031762228/"/>
     <id>https://xys-blog.cf/posts/3031762228/</id>
     <published>2022-04-30T13:10:59.000Z</published>
-    <updated>2022-04-30T13:37:46.952Z</updated>
+    <updated>2022-05-01T06:10:04.196Z</updated>
     
     <content type="html"><![CDATA[<div class=".article-gallery"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2><p>基于<a href="https://xys-blog.cf/posts/4293843122/">第一章的准备工作</a>，现在开始搭建+部署博客</p><h2 id="本地搭建"><a class="markdownIt-Anchor" href="#本地搭建"></a> 本地搭建</h2><h3 id="安装hexo"><a class="markdownIt-Anchor" href="#安装hexo"></a> 安装hexo</h3><p>在桌面右键，在弹出来的窗口中单击“Git Bush Here”<br><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/1.14.jpg" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/1.14.jpg" alt=""></a></p><p>在弹出来的窗口中输入要创建博客的地址<br>比如我的要搭建在F盘<br>那么我就输入</p><pre><code>cd /f/</code></pre><p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/2.2.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/2.2.png" alt=""></a><br>如图，成功跳到了F盘</p><p>然后在git窗口中输入</p><pre><code>npm install hexo-cli -g</code></pre><p>结果如图（差不多即可）<br><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/2.3.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/2.3.png" alt=""></a></p><p>再输入</p><pre><code>hexo init myblog</code></pre><p>速度有点慢，需要稍等一会<br>结果如图（差不多即可）（以下省略）<br><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/2.4.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/2.4.png" alt=""></a></p><p>同时，你的（D，E，F……）盘下会出现应该叫“myblog”的文件夹<br>欧克，用git打开myblog这个文件夹</p><pre><code>cd myblog</code></pre></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
     
