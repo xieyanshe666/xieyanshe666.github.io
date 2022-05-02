@@ -74,12 +74,13 @@
 <h3 id="选择主题"><a class="markdownIt-Anchor" href="#选择主题"></a> 选择主题</h3>
 <p>到 <a href="https://hexo.io/themes/">https://hexo.io/themes/</a> 中选择一款您喜欢的主题，并点击它的名字进入它的github地址<br>
 <a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.1.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.1.png" alt=""></a></p>
+<h3 id="更换主题-2"><a class="markdownIt-Anchor" href="#更换主题-2"></a> 更换主题</h3>
 <p>这里以butterfly主题为例<br>
 划到自述文件的开头<br>
 然后复制红框中的代码<br>
 在git中先打开博客（cd /f/myblog），然后把刚刚复制的东西黏贴到git中运行<br>
 <a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.3.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.3.png" alt=""></a></p>
-<p>注：butterfly主题还需在git中运行</p>
+<p>注：butterfly等主题还需在git中运行</p>
 <p>npm install hexo-renderer-pug hexo-renderer-stylus<br>
 才行<br>
 接着更改博客根目录的_config.yml文件<br>
