@@ -65,6 +65,16 @@
       </tags>
   </entry>
   <entry>
+    <title>4893 - 圆桌问题题解</title>
+    <url>/posts/323266332/</url>
+    <content><![CDATA[<div class=".article-gallery"></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+  </entry>
+  <entry>
     <title>4894 - 机器人走路题解</title>
     <url>/posts/1031250688/</url>
     <content><![CDATA[<div class=".article-gallery"><h2 id="题目"><a class="markdownIt-Anchor" href="#题目"></a> 题目</h2>
@@ -75,8 +85,8 @@
 2.机器人只能向右或者向下走，并且每走一步消耗一单位能量。<br>
 3.机器人不能在原地停留。<br>
 4.当机器人选择了一条可行路径后，当他走到这条路径的终点时，他将只有终点所标记的能量。<br>
-<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/20210818175000_72419.gif" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/20210818175000_72419.gif" alt=""></a><br>
-如上图，机器人一开始在(1,1)点，并拥有4单位能量，蓝色方块表示他所能到达的点，如果他在这次路径选择中选择的终点是(2,4)点，当他到达(2,4)点时将拥有1单位的能量，并开始下一次路径选择，直到到达(6,6)点。<br>
+<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/20210818175000_72419.gif" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/20210818175000_72419.gif" alt=""></a></p>
+<p>如上图，机器人一开始在(1,1)点，并拥有4单位能量，蓝色方块表示他所能到达的点，如果他在这次路径选择中选择的终点是(2,4)点，当他到达(2,4)点时将拥有1单位的能量，并开始下一次路径选择，直到到达(6,6)点。<br>
 我们的问题是机器人有多少种方式从起点走到终点。这可能是一个很大的数，输出的结果对10000取模。</p>
 <h3 id="输入"><a class="markdownIt-Anchor" href="#输入"></a> 输入</h3>
 <p>第一行输入两个整数n,m(1 &lt;= n,m &lt;= 100)。表示棋盘的大小。接下来输入n行,每行m个整数e(0 &lt;= e &lt; 20)。</p>
@@ -197,6 +207,9 @@ int main(){
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
+      <categories>
+        <category>c++题解</category>
+      </categories>
       <tags>
         <tag>c++</tag>
         <tag>题解</tag>
