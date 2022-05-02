@@ -65,6 +65,42 @@
       </tags>
   </entry>
   <entry>
+    <title>谢言射教你用hexo+github搭建博客（3.主题更换）</title>
+    <url>/posts/3200579984/</url>
+    <content><![CDATA[<div class=".article-gallery"><h2 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h2>
+<p>基于<a href="https://xys-blog.cf/posts/3031762228/">第二章的准备工作</a>，现在更换博客主题</p>
+<h2 id="更换主题"><a class="markdownIt-Anchor" href="#更换主题"></a> 更换主题</h2>
+<p>当然，您可以保留hexo的默认主题，也可以跟着本教程更换</p>
+<h3 id="选择主题"><a class="markdownIt-Anchor" href="#选择主题"></a> 选择主题</h3>
+<p>到 <a href="https://hexo.io/themes/">https://hexo.io/themes/</a> 中选择一款您喜欢的主题，并点击它的名字进入它的github地址<br>
+<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.1.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.1.png" alt=""></a></p>
+<p>这里以butterfly主题为例<br>
+划到自述文件的开头<br>
+然后复制红框中的代码<br>
+在git中先打开博客（cd /f/myblog），然后把刚刚复制的东西黏贴到git中运行<br>
+<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.3.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.3.png" alt=""></a></p>
+<p>接着更改博客根目录的_config.yml文件<br>
+把大约为第100行的theme配置改为</p>
+<p>theme: 您刚刚更改的主题的名称<br>
+比如我的</p>
+<p>theme: butterfly<br>
+<a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.4.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/3.4.png" alt=""></a></p>
+<p>再在git中运行</p>
+<p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d<br>
+即可<br>
+在浏览器中打开自己的博客，就能看见变化了</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>4893 - 圆桌问题题解</title>
     <url>/posts/323266332/</url>
     <content><![CDATA[<div class=".article-gallery"><h2 id="题目"><a class="markdownIt-Anchor" href="#题目"></a> 题目</h2>
@@ -143,9 +179,6 @@ int main(){
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
       <tags>
         <tag>c++</tag>
         <tag>题解</tag>
@@ -285,9 +318,6 @@ int main(){
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
-      <categories>
-        <category>题解</category>
-      </categories>
       <tags>
         <tag>c++</tag>
         <tag>题解</tag>
@@ -482,9 +512,6 @@ hexo d
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
-      <categories>
-        <category>hexo搭建博客</category>
-      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>github</tag>
@@ -925,9 +952,6 @@ PS：一般情况下，博主不会在博客中放附件，因为这样可能会
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
-      <categories>
-        <category>hexo搭建博客</category>
-      </categories>
       <tags>
         <tag>hexo</tag>
         <tag>github</tag>
