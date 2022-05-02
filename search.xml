@@ -143,7 +143,7 @@ int main(){
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
       <categories>
-        <category>c++题解</category>
+        <category>题解</category>
       </categories>
       <tags>
         <tag>c++</tag>
@@ -283,6 +283,9 @@ int main(){
         };
         lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
         }</script>]]></content>
+      <categories>
+        <category>题解</category>
+      </categories>
       <tags>
         <tag>c++</tag>
         <tag>题解</tag>
