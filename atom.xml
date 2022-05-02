@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-05-01T13:00:08.190Z</updated>
+  <updated>2022-05-02T08:45:15.418Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4894 - 机器人走路题解</title>
+    <link href="https://xys-blog.cf/posts/1031250688/"/>
+    <id>https://xys-blog.cf/posts/1031250688/</id>
+    <published>2022-05-02T07:59:42.000Z</published>
+    <updated>2022-05-02T08:45:15.418Z</updated>
+    
+    <content type="html"><![CDATA[<div class=".article-gallery"><h2 id="题目"><a class="markdownIt-Anchor" href="#题目"></a> 题目</h2><h3 id="4894-机器人走路"><a class="markdownIt-Anchor" href="#4894-机器人走路"></a> 4894 - 机器人走路</h3><h3 id="描述"><a class="markdownIt-Anchor" href="#描述"></a> 描述</h3><p>这是一个简单的生存游戏，你控制一个机器人从一个棋盘的起始点(1,1)走到棋盘的终点(n,m)。游戏的规则描述如下：<br>1.机器人一开始在棋盘的起始点并有起始点所标有的能量。<br>2.机器人只能向右或者向下走，并且每走一步消耗一单位能量。<br>3.机器人不能在原地停留。<br>4.当机器人选择了一条可行路径后，当他走到这条路径的终点时，他将只有终点所标记的能量。<br><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/20210818175000_72419.gif" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/20210818175000_72419.gif" alt=""></a><br>如上图，机器人一开始在(1,1)点，并拥有4单位能量，蓝色方块表示他所能到达的点，如果他在这次路径选择中选择的终点是(2,4)点，当他到达(2,4)点时将拥有1单位的能量，并开始下一次路径选择，直到到达(6,6)点。<br>我们的问题是机器人有多少种方式从起点走到终点。这可能是一个很大的数，输出的结果对10000取模。</p><h3 id="输入"><a class="markdownIt-Anchor" href="#输入"></a> 输入</h3><p>第一行输入两个整数n,m(1 &lt;= n,m &lt;= 100)。表示棋盘的大小。接下来输入n行,每行m个整数e(0 &lt;= e &lt; 20)。</p><h3 id="输出"><a class="markdownIt-Anchor" href="#输出"></a> 输出</h3><p>对于每一组数据输出方式总数对10000取模的结果.</p><h3 id="样例"><a class="markdownIt-Anchor" href="#样例"></a> 样例</h3><p>输入</p><pre><code>6 64 5 6 6 4 32 2 3 1 7 21 1 4 6 2 75 8 4 3 9 57 6 6 2 1 53 1 1 3 7 2</code></pre><p>输出</p><pre><code>3948</code></pre><h3 id="补充"><a class="markdownIt-Anchor" href="#补充"></a> 补充</h3><blockquote><p>时间限制1 秒<br>内存限制128 MB<br>来源        FYOJ</p></blockquote><h2 id="题解"><a class="markdownIt-Anchor" href="#题解"></a> 题解</h2><p>咳咳咳，进入题解部分</p><h3 id="老师的做法"><a class="markdownIt-Anchor" href="#老师的做法"></a> 老师的做法</h3><p>额……<br>老师直接暴力<br><s>骗分过样例，打表出奇迹！</s><br>接着直接看他的代码吧</p><pre><code>#include &lt;cstdio&gt;using namespace std;int a[111][111],f[111][111];int main(){    int n,m;    scanf("%d%d",&amp;n,&amp;m);    for(int i\=1; i&lt;=n; ++i)        for(int j=1; j&lt;=m; ++j)            scanf("%d",&amp;a[i][j]);    //确定一个起点，确定一个终点    //去验证这个起点-&gt;这个终点的可行性    //a[i][j]-&gt;a[x][y]怎么去验证（i,j）-&gt;（×,y）    //是不是只要保证a[i][j]能不能够提供我i,j---&gt;x,y    //重点：（i,j）---&gt;（x,y）的距离为 x+y-i-j     f[1][1]=1;    for(int x=1; x&lt;=n; ++x)        for(int y=1; y&lt;=m; ++y) //x,y终点            for(int i=1; i&lt;=x; ++i)                for(int j=1; j&lt;=y; ++j) //i,j起点                 {                    if(i==x &amp;&amp; j==y) continue;                    if(x+y-i-j&lt;=a[i][j]) f[x][y]=(f[x][y]+f[i][j])%10000;                }    printf("%d",f[n][m]);    return 0;}</code></pre><blockquote><p>测评结果    通过<br>分数    100<br>时间    52 MS<br>内存    668 KB<br>语言    C++<br>代码长度    475</p></blockquote><h3 id="我的做法"><a class="markdownIt-Anchor" href="#我的做法"></a> 我的做法</h3><p>鹅妈妈……就记忆化搜索</p><pre><code>#include &lt;bits/stdc++.h&gt;using namespace std;int n,m;int a[110][110];int b[110][110];int dfs(int x,int y){    if (b[x][y] &gt;= 0){    return b[x][y];    }    b[x][y] = 0;    for (int i = 0; i &lt;= a[x][y]; i++){    for (int j = 0; j &lt;= a[x][y]-i; j++){    int X = x+i,Y = y+j;    if (X &gt;= 1 &amp;&amp; X &lt;= n &amp;&amp; Y &gt;= 1 &amp;&amp; Y &lt;= m){    int kkksc03 = dfs(X,Y);              b[x][y] = (b[x][y]+kkksc03)%10000;      }    }    }    return b[x][y];}int main(){    //freopen(".in","r",stdin);    //freopen(".out","w",stdout);    cin &gt;&gt; n &gt;&gt; m;    for (int i = 1; i &lt;= n; i++){    for (int j = 1; j &lt;= m; j++){    cin &gt;&gt; a[i][j];    }    }    memset(b,-1,sizeof(b));    b[n][m] = 1;    int chen_zhe = dfs(1,1);    cout &lt;&lt; chen_zhe;    return 0;}</code></pre><blockquote><p>测评结果    通过<br>分数    100<br>时间    7 MS<br>内存    816 KB<br>语言    C++<br>代码长度    732</p></blockquote></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h2&gt;
+&lt;h3 id=&quot;4894-机器人走路&quot;&gt;&lt;a class=&quot;markdownIt-Anch</summary>
+      
+    
+    
+    
+    
+    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
+    
+    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>谢言射教你用hexo+github搭建博客（2.本地搭建和github部署）</title>
@@ -440,28 +465,6 @@
     <category term="目录" scheme="https://xys-blog.cf/tags/%E7%9B%AE%E5%BD%95/"/>
     
     <category term="公告" scheme="https://xys-blog.cf/tags/%E5%85%AC%E5%91%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>学校游记2</title>
-    <link href="https://xys-blog.cf/posts/1793860868/"/>
-    <id>https://xys-blog.cf/posts/1793860868/</id>
-    <published>2022-01-15T11:50:36.000Z</published>
-    <updated>2022-03-16T12:08:17.008Z</updated>
-    
-    <content type="html"><![CDATA[<div class=".article-gallery"><h2 id="2022115"><a class="markdownIt-Anchor" href="#2022115"></a> 2022.1.15</h2><p>我12岁的第二天</p><span id="more"></span><p>emmmm……<br>先宣布一个大事<br>我 真 正 退 役 了<br>（这段写给我的同学）<br>以后，我发现老师的答案（同学做的范例等），如有错误，我不会再提出来了！<br>我受够了杠精的生活~~（尽管我前世可能是杠精）~~<br>不 想 再 干 了<br>真的是，有时候不小心和正确答案杠上了<br><s>还把正确答案当错误答案，和它杠一天</s></p><p>好<br>让我们来回忆三岁时的谢言射<br>(图片好像炸了)<br><s>依旧那么帅</s></p><p>咳咳咳<br>今天……<br>很好，退役工作做得不错<br>没和人家杠<br>直接改了自己的错误答案<br><s>因为正确答案也是我想出来的</s></p><h2 id="2022117"><a class="markdownIt-Anchor" href="#2022117"></a> 2022.1.17</h2><p>笑死我了<br>哈哈哈哈哈哈哈……<br>emmm……<br>突然感觉语文老师的改卷标准我不适应<br>意思相近的也给我错<br>还好挡住了，但只有94+5<br>呜呜呜……<br>额<br>突然想骂老师一顿<br>但找不到合适的词<br>额……</p><p>最近数学老师是越来越怪了<br>和语文老师换了课<br>却不考试？？？<br>让我们写作业？？？<br>前几天偶然看到他在自己出试卷<br>莫非……<br>（电脑）正在关机……</p><h2 id="2022118"><a class="markdownIt-Anchor" href="#2022118"></a> 2022.1.18</h2><p>可怜的谢言射<br>被几个老师轮流轰炸<br>ps：语文和英语我不说了，可以私信问我（我同学都知道）<br>就讲数学老师<br>今天，我终于知道了<br>今天改作业时，他好像认错人了<br>边改边说<br>“是抄的吧。”<br>ps：不知道有没有听错<br>然后我“啊？”了一声<br>他就不说话了<br>我抄的？？？？？？？？？？？？？？？？？？？？<br>别人抄我的还差不多！！！！！？<br>呵<br>笑死我了<br>终于知道了<br>这个不可告人的秘密……</p><h2 id="2022120"><a class="markdownIt-Anchor" href="#2022120"></a> 2022.1.20</h2><p>昨天因为家里网络问题，无法更新<br>咳咳咳<br>来说今天<br>昨天考试了，然后又搞的我面红耳赤<br>然后今天发试卷了嘛<br>额……<br>算上附加费的话嘛<br>全班第一<br>不加嘛……<br>第二………………………………<br>笑死我了，我这是第几次没得满分了？？？<br>对此，我和另一个数学课代表去办公室辞去了数学课代表这个职位<br>以后由@zyh来代替我的工作<br>聊天记录如下：<br>我：额，老师，我不想当数学课代表了<br>师：额，为什么啊<br>我：就是……就是成绩太差了<br>师：成绩这个没关系的，课代表嘛，就是帮老师干一些活的<br>我：不是……我就是……感觉我不配当数学课代表<br>师：额，是不是太忙了<br>我：嗯，感觉有点<br>师：好吧，你回去吧，我自己再找一个人</p><h2 id="2022214"><a class="markdownIt-Anchor" href="#2022214"></a> 2022.2.14</h2><p>啊啊啊，经历了一个寒假，总算回到学校了<br>和以前一样啊，明明想对别人说的话有很多，见到了感觉就没了？？？<br>咳咳咳<br>其他我不多说，就说有人污蔑我喝水水都滴下来的事<br>就说一下哈<br>就是TA说TA家电视看某些电视要充钱，然后我哈哈哈笑了，毕竟我家的电视不用充钱，然后我就在心里得意，结果乐极生悲，拿水杯的手一歪，洒了几滴出来，尽管只有几滴，但还是被TA看见了，就在那乱污蔑我！！！！<br>笑死！<br>后来弄明白了，TA家是可选电视看的电视，我家的频道是不用钱的</p><h2 id="2022215"><a class="markdownIt-Anchor" href="#2022215"></a> 2022.2.15</h2><p>咳咳咳<br>解释一下英语老师的事啊<br>就是上英语课的时候，我去桌子里拿了英语的抄写本啊<br>然后手出来的时候不小心把我口袋里的橘子弄破了<br>摸了一下，发现只有皮破了，其他还好<br>就习惯性地皱了一下眉头，然后被老师发现了……<br>后面的事就不说了，大家都知道<br>还有英语老师，你也不用脑子想想，我画的思维导图都把你讲的都写下来了<br>还不会？？？<br>PS：最近谣言比较多，大家听见有关于侮辱我的，千万不要信，一切以官方的消息为主！！！</p><h2 id="2022216"><a class="markdownIt-Anchor" href="#2022216"></a> 2022.2.16</h2><p>害~<br>这几天啊<br>我一直在想一个问题<br>为什么<br>同学总是来问我题目？<br>是因为我太聪明了？ 不，不可能，谁都知道，我并不聪明，只是一个偶尔逆袭上来的学渣<br>是因为我心太软了？ 不，不可能，我觉得我心并不软<br>可为什么都来问我<br>我貌似想通了，因为我太弱了<br>不然为什么基本没人去向我前面的学霸请教？<br>不然为什么基本没人去向我后面的后面的学霸请教？<br>不然为什么基本没人去向我左边的后面的学霸请教？<br>可能我就是太弱了吧<br>所以，从明天起，我要提升！！！！</p><h2 id="2022217"><a class="markdownIt-Anchor" href="#2022217"></a> 2022.2.17</h2><p>完了完了，感觉我试卷要考砸了！！！！<br>什么都不想写<br>完了，我完了<br>我看不见后天的太阳了！！！<br>呜呜呜……<br>最后的希望……</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=5285415&amp;auto=0&amp;height=66"></iframe><h2 id="2022218"><a class="markdownIt-Anchor" href="#2022218"></a> 2022.2.18</h2><p>啊啊啊<br>快要发试卷了！！！<br>有几位<s>勇士</s>同学已经去翻过试卷了<br>他们说我100<br>我不信<br>他们说肯定是的<br>然后我和他们打赌说你们不是经常说我狗吗，如果我考到100的话我你们以后就正式叫我狗好了<br>中午<br>瞬间打脸<br>还真的是100<br>额……</p><ul><li>[x] 在家里拿一个印章（同学背课文要盖）</li></ul><h2 id="2022221"><a class="markdownIt-Anchor" href="#2022221"></a> 2022.2.21</h2><p><a href="https://xys-blog.cf/posts/918071535.html">主要事件传送门</a></p><h2 id="2022222"><a class="markdownIt-Anchor" href="#2022222"></a> 2022.2.22</h2><p>没什么好写的<br>整一天都在辟谣<br>最近谣言比较多，大家千万不要信！！！<br>另外，祝大家2022年2月22日快乐！！！<br><s>但我马上就要八比Q了</s></p><p>但是</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=255294&amp;auto=1&amp;height=66"></iframe><p><s>才怪</s></p><h2 id="2022224"><a class="markdownIt-Anchor" href="#2022224"></a> 2022.2.24</h2><p>啊啊啊，我终于回来了<br>最近我感觉自己比较伤心，但不知道为什么伤心<br><s>又开始装了</s><br>咳咳咳<br>进入正题<br>最近我们学校的老师和上虞区的出题人考试对我们进行压榨<br><s>以至于我昨天没有更新</s><br>这是一件让人感到很奇怪的事<br>六年级下册要补上册的期末考试？<br>所以……<br>我去复习了<br><s>别想我</s></p><h2 id="2022225"><a class="markdownIt-Anchor" href="#2022225"></a> 2022.2.25</h2><p>emmmmm……</p><h2 id="2022228"><a class="markdownIt-Anchor" href="#2022228"></a> 2022.2.28</h2><p>额，没什么好写的<br>明天又双叒叕要数学考试<br>不过说句闲话<br>这MD（MarkDown）语法还真的挺好用的诶<br><s>又开始扯了</s><br>算了<br>拜拜</p></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;2022115&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#2022115&quot;&gt;&lt;/a&gt; 2022.1.15&lt;/h2&gt;
-&lt;p&gt;我12岁的第二天&lt;/p&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="游记" scheme="https://xys-blog.cf/tags/%E6%B8%B8%E8%AE%B0/"/>
-    
-    <category term="学校" scheme="https://xys-blog.cf/tags/%E5%AD%A6%E6%A0%A1/"/>
     
   </entry>
   
