@@ -106,7 +106,7 @@
 <h3 id="老师的做法"><a class="markdownIt-Anchor" href="#老师的做法"></a> 老师的做法</h3>
 <p>额……<br>
 老师直接暴力<br>
-<s>骗分过样例，打表出奇迹！</s><br>
+<s>骗分过样例，暴力出奇迹！</s><br>
 接着直接看他的代码吧</p>
 <pre><code>#include &lt;cstdio&gt;
 using namespace std;
