@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-05-03T08:56:12.553Z</updated>
+  <updated>2022-05-03T09:38:03.317Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客附件使用说明</title>
+    <link href="https://xys-blog.cf/posts/4122137359/"/>
+    <id>https://xys-blog.cf/posts/4122137359/</id>
+    <published>2022-05-03T09:33:41.000Z</published>
+    <updated>2022-05-03T09:38:03.317Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"><p>咳咳咳，趁着五一假期</p></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css&quot; /&gt;&lt;div class=&quot;.article</summary>
+      
+    
+    
+    
+    
+    <category term="附件" scheme="https://xys-blog.cf/tags/%E9%99%84%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>世界杯(worldcup)题解</title>
@@ -429,31 +451,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>源码博客2.0发布会</title>
-    <link href="https://xys-blog.cf/posts/2610740764/"/>
-    <id>https://xys-blog.cf/posts/2610740764/</id>
-    <published>2022-02-13T08:05:55.000Z</published>
-    <updated>2022-03-12T13:15:53.520Z</updated>
-    
-    <content type="html"><![CDATA[<div class=".article-gallery"><h1 id="前言"><a class="markdownIt-Anchor" href="#前言"></a> 前言</h1><p>咳咳咳，开学前再做个发布会吧<br>今天，我谢言射郑重宣布，源码博客2.0正式发布！<br><s>以后很少更新了</s><br>先不管他</p><span id="more"></span><h1 id="更新"><a class="markdownIt-Anchor" href="#更新"></a> 更新</h1><h2 id="新增功能"><a class="markdownIt-Anchor" href="#新增功能"></a> 新增功能</h2><h3 id="一只可爱的小狗"><a class="markdownIt-Anchor" href="#一只可爱的小狗"></a> 一只可爱的小狗</h3><p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741168.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741168.png" alt=""></a></p><h3 id="新增聊天功能"><a class="markdownIt-Anchor" href="#新增聊天功能"></a> 新增聊天功能</h3><p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741250.png" title="图标" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741250.png" alt="图标"></a></p><p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741268.png" title="聊天界面" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644741268.png" alt="聊天界面"></a></p><h3 id="背景改了"><a class="markdownIt-Anchor" href="#背景改了"></a> 背景改了</h3><p>（不给展示了，自己去看）</p><h3 id="访问速度加快有自定义域名了重点"><a class="markdownIt-Anchor" href="#访问速度加快有自定义域名了重点"></a> 访问速度加快&amp;有自定义域名了！！！（重点）</h3><p>域名换成了https://www.xys-blog.cf/<br>别再输之前那个了！！！<br><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/QQ%E6%88%AA%E5%9B%BE20220213163948.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/QQ%E6%88%AA%E5%9B%BE20220213163948.png" alt=""></a></p><p>PS：要域名的和我说一声，免费提供<strong>顶级域名</strong>（<a href="http://xn--siqw5lms6b.tk">后缀为.tk</a>,.ml,.ga,.gq,.cf的)</p><h3 id="添加了文章密码保护"><a class="markdownIt-Anchor" href="#添加了文章密码保护"></a> 添加了文章密码保护</h3><p>某些文章增加了密码保护，如果真的要看，请在我的微信公众号（Seth本人）回复【密码】获取。</p><h3 id="还有很多"><a class="markdownIt-Anchor" href="#还有很多"></a> ……（还有很多）</h3><h2 id="debug"><a class="markdownIt-Anchor" href="#debug"></a> DEBUG</h2><h3 id="加快了网站的访问速度"><a class="markdownIt-Anchor" href="#加快了网站的访问速度"></a> 加快了网站的访问速度</h3><h1 id="页面展示"><a class="markdownIt-Anchor" href="#页面展示"></a> 页面展示</h1><p><a href="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644747240.png" class="gallery-item"><img src="https://cdn.jsdelivr.net/gh/xieyanshe666/PicGoCDN/img/%E6%9C%AA%E5%91%BD%E5%90%8D1644747240.png" alt=""></a></p><p>PS：别问我为什么这次图床够用了，因为我自己搭建了一个</p></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {        var options = {            selector: '.gallery-item'        };        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);        }</script>]]></content>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h1 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h1&gt;
-&lt;p&gt;咳咳咳，开学前再做个发布会吧&lt;br&gt;
-今天，我谢言射郑重宣布，源码博客2.0正式发布！&lt;br&gt;
-&lt;s&gt;以后很少更新了&lt;/s&gt;&lt;br&gt;
-先不管他&lt;/p&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="源码博客" scheme="https://xys-blog.cf/tags/%E6%BA%90%E7%A0%81%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="发布会" scheme="https://xys-blog.cf/tags/%E5%8F%91%E5%B8%83%E4%BC%9A/"/>
     
   </entry>
   

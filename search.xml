@@ -2335,4 +2335,18 @@ hexo d
         <tag>题解</tag>
       </tags>
   </entry>
+  <entry>
+    <title>博客附件使用说明</title>
+    <url>/posts/4122137359/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"><p>咳咳咳，趁着五一假期</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>附件</tag>
+      </tags>
+  </entry>
 </search>
