@@ -31,3 +31,7 @@ window.onload = function() {
         });
     }
 }
+daovoice('init', {
+    app_id: "02cbfc43"
+  });
+  daovoice('update');
