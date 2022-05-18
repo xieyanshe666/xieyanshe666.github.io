@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-05-14T08:38:14.605Z</updated>
+  <updated>2022-05-18T12:00:10.486Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客暂时通知维护的通知</title>
+    <link href="https://xys-blog.cf/posts/3869669730/"/>
+    <id>https://xys-blog.cf/posts/3869669730/</id>
+    <published>2022-05-18T11:41:21.000Z</published>
+    <updated>2022-05-18T12:00:10.486Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;各位网友、同志们：&lt;br&gt;
+大家好！&lt;br&gt;
+由于小学毕业考即将到来，为了谢言射的前途考虑，我团队决定将暂时停止博客的维护，但不会全部停止，只是维护会比较缓慢，停止维护时间大致为5.20~6.20，为您到来不便烦请原谅。&lt;/p&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="公告" scheme="https://xys-blog.cf/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
     <title>luo2086-----奶牛排队 题解</title>
     <link href="https://xys-blog.cf/posts/659898594/"/>
     <id>https://xys-blog.cf/posts/659898594/</id>
     <published>2022-05-14T08:08:31.000Z</published>
-    <updated>2022-05-14T08:38:14.605Z</updated>
+    <updated>2022-05-15T09:01:25.700Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h2&gt;
@@ -43,7 +62,7 @@
     <link href="https://xys-blog.cf/posts/3358763417/"/>
     <id>https://xys-blog.cf/posts/3358763417/</id>
     <published>2022-05-14T07:15:40.000Z</published>
-    <updated>2022-05-14T08:38:14.605Z</updated>
+    <updated>2022-05-15T09:01:25.684Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h2&gt;
@@ -65,7 +84,7 @@
     <link href="https://xys-blog.cf/posts/8623461/"/>
     <id>https://xys-blog.cf/posts/8623461/</id>
     <published>2022-05-14T06:06:13.000Z</published>
-    <updated>2022-05-14T08:38:14.606Z</updated>
+    <updated>2022-05-15T09:01:25.695Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h2&gt;
@@ -194,16 +213,15 @@
     <link href="https://xys-blog.cf/posts/1528610346/"/>
     <id>https://xys-blog.cf/posts/1528610346/</id>
     <published>2022-05-12T10:55:47.000Z</published>
-    <updated>2022-05-12T10:59:27.172Z</updated>
+    <updated>2022-05-18T12:01:02.614Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;各位网友、同志们：&lt;br&gt;
+大家好！&lt;br&gt;
+由于小学毕业考即将到来，为了谢言射的前途考虑，我团队决定将暂时停止博客的维护，但不会全部停止，只是维护会比较缓慢，停止维护时间大致为5.20~6.20，为您到来不便烦请原谅。&lt;/p&gt;
+&lt;p&gt;我团队在此保证，等毕业考一结束，我团队会立刻恢复博客的维护工作，绝不会让各位久等！&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;谢言射团队&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;2022年5月18日&lt;/p&gt;&lt;/div&gt;</summary>
     
     
     
@@ -427,28 +445,6 @@
     <category term="hexo" scheme="https://xys-blog.cf/tags/hexo/"/>
     
     <category term="github" scheme="https://xys-blog.cf/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解决浏览器因为时钟快了无法显示网页的问题</title>
-    <link href="https://xys-blog.cf/posts/2290789902/"/>
-    <id>https://xys-blog.cf/posts/2290789902/</id>
-    <published>2022-04-25T12:45:27.000Z</published>
-    <updated>2022-04-25T13:01:47.398Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
-&lt;p&gt;咳咳咳，就是想解决一些同志因为时钟快了无法显示网页的问题。&lt;br&gt;
-话不多说，开始吧！&lt;/p&gt;
-&lt;hr&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="浏览器" scheme="https://xys-blog.cf/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
-    <category term="技术" scheme="https://xys-blog.cf/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
