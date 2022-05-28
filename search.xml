@@ -3185,4 +3185,75 @@ hexo d
         <tag>github</tag>
       </tags>
   </entry>
+  <entry>
+    <title>luo-----1103三角形 题解</title>
+    <url>/posts/1249203641/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="题目"><a class="markdownIt-Anchor" href="#题目"></a> 题目</h2>
+<h3 id="三角形"><a class="markdownIt-Anchor" href="#三角形"></a> 三角形</h3>
+<span id="more"></span>
+<h3 id="题目描述"><a class="markdownIt-Anchor" href="#题目描述"></a> 题目描述</h3>
+<p>罗老师给大家三个数，作为三角形的三边，问这是什么三角形？</p>
+<h3 id="输入"><a class="markdownIt-Anchor" href="#输入"></a> 输入</h3>
+<p>输入a,b,c</p>
+<h3 id="输出"><a class="markdownIt-Anchor" href="#输出"></a> 输出</h3>
+<p>如果是锐角三角形输出：Acute triangle</p>
+<p>如果是钝角三角形输出：Obtuse triangle</p>
+<p>如果是直角三角形输出：Right triangle</p>
+<h3 id="样例"><a class="markdownIt-Anchor" href="#样例"></a> 样例</h3>
+<p>输入</p>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">2 2 2</span><br></pre></td></tr></tbody></table></figure>
+<p>输出</p>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">Acute triangle</span><br></pre></td></tr></tbody></table></figure>
+<h3 id="提示"><a class="markdownIt-Anchor" href="#提示"></a> 提示</h3>
+<p>【数据规模和约定】</p>
+<p>1&lt;=a, b, c&lt;=100 且都为整数</p>
+<p>保证三边可以组成三角形</p>
+<h3 id="补充"><a class="markdownIt-Anchor" href="#补充"></a> 补充</h3>
+<blockquote>
+<p>时间限制	2 秒<br>
+内存限制	128 MB<br>
+来源        luo’s OJ</p>
+</blockquote>
+<h2 id="题解"><a class="markdownIt-Anchor" href="#题解"></a> 题解</h2>
+<p>典型的勾股定理……</p>
+<figure class="highlight cpp"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="type">int</span> a[<span class="number">3</span>]; </span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>{</span><br><span class="line">	<span class="comment">//freopen(".in","r",stdin);</span></span><br><span class="line">	<span class="comment">//freopen(".out","w",stdout);</span></span><br><span class="line">	cin &gt;&gt; a[<span class="number">0</span>] &gt;&gt; a[<span class="number">1</span>] &gt;&gt; a[<span class="number">2</span>];</span><br><span class="line">	<span class="built_in">sort</span>(a,a+<span class="number">3</span>);</span><br><span class="line">	<span class="keyword">if</span> (a[<span class="number">0</span>]*a[<span class="number">0</span>]+a[<span class="number">1</span>]*a[<span class="number">1</span>] == a[<span class="number">2</span>]*a[<span class="number">2</span>]){</span><br><span class="line">		cout &lt;&lt; <span class="string">"Right triangle"</span>;</span><br><span class="line">	}</span><br><span class="line">	<span class="keyword">if</span> (a[<span class="number">0</span>]*a[<span class="number">0</span>]+a[<span class="number">1</span>]*a[<span class="number">1</span>] &lt; a[<span class="number">2</span>]*a[<span class="number">2</span>]){</span><br><span class="line">		cout &lt;&lt; <span class="string">"Obtuse triangle"</span>;</span><br><span class="line">	}</span><br><span class="line">	<span class="keyword">if</span> (a[<span class="number">0</span>]*a[<span class="number">0</span>]+a[<span class="number">1</span>]*a[<span class="number">1</span>] &gt; a[<span class="number">2</span>]*a[<span class="number">2</span>]){</span><br><span class="line">		cout &lt;&lt; <span class="string">"Acute triangle"</span>;</span><br><span class="line">	}</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></tbody></table></figure>
+<blockquote>
+<p>测评结果    通过<br>
+分数	    100	<br>
+耗时	    19 MS	<br>
+内存	    2176 KB<br>
+语言	    C++<br>
+代码长度    417 bytes</p>
+</blockquote>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>题解</tag>
+        <tag>c++</tag>
+        <tag>luo&#39;s OJ</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>luo-----2267单词缩写(abbreviation) 题解</title>
+    <url>/posts/843520039/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"><h2 id="题目"><a class="markdownIt-Anchor" href="#题目"></a> 题目</h2>
+<h3 id=""><a class="markdownIt-Anchor" href="#"></a> </h3>
+<span id="more"></span>
+<h3 id="-2"><a class="markdownIt-Anchor" href="#-2"></a> </h3>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>题解</tag>
+        <tag>c++</tag>
+        <tag>luo&#39;s OJ</tag>
+      </tags>
+  </entry>
 </search>
