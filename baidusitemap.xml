@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xys-blog.cf/posts/3361761468/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://xys-blog.cf/posts/1528610346/</loc>
+    <lastmod>2022-06-29</lastmod>
+  </url>
+  <url>
     <loc>https://xys-blog.cf/posts/843520039/</loc>
     <lastmod>2022-06-01</lastmod>
   </url>
   <url>
     <loc>https://xys-blog.cf/posts/1249203641/</loc>
     <lastmod>2022-06-01</lastmod>
-  </url>
-  <url>
-    <loc>https://xys-blog.cf/posts/1528610346/</loc>
-    <lastmod>2022-05-19</lastmod>
   </url>
   <url>
     <loc>https://xys-blog.cf/posts/20400546/</loc>
@@ -153,19 +157,7 @@
     <lastmod>2022-03-12</lastmod>
   </url>
   <url>
-    <loc>https://xys-blog.cf/posts/918071535/</loc>
-    <lastmod>2022-03-12</lastmod>
-  </url>
-  <url>
     <loc>https://xys-blog.cf/posts/3632233996/</loc>
-    <lastmod>2022-03-12</lastmod>
-  </url>
-  <url>
-    <loc>https://xys-blog.cf/posts/2610740764/</loc>
-    <lastmod>2022-03-12</lastmod>
-  </url>
-  <url>
-    <loc>https://xys-blog.cf/posts/2531786604/</loc>
     <lastmod>2022-03-12</lastmod>
   </url>
   <url>
@@ -173,7 +165,19 @@
     <lastmod>2022-03-12</lastmod>
   </url>
   <url>
+    <loc>https://xys-blog.cf/posts/2531786604/</loc>
+    <lastmod>2022-03-12</lastmod>
+  </url>
+  <url>
+    <loc>https://xys-blog.cf/posts/2610740764/</loc>
+    <lastmod>2022-03-12</lastmod>
+  </url>
+  <url>
     <loc>https://xys-blog.cf/posts/1266501874/</loc>
+    <lastmod>2022-03-12</lastmod>
+  </url>
+  <url>
+    <loc>https://xys-blog.cf/posts/918071535/</loc>
     <lastmod>2022-03-12</lastmod>
   </url>
 </urlset> 
