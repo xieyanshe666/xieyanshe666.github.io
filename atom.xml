@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-07-07T05:45:14.349Z</updated>
+  <updated>2022-07-09T11:36:38.662Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022绍兴小学-----问题 B: 华容道(huarong) 题解</title>
+    <link href="https://xys-blog.cf/posts/662691727/"/>
+    <id>https://xys-blog.cf/posts/662691727/</id>
+    <published>2022-07-09T11:30:52.000Z</published>
+    <updated>2022-07-09T11:36:38.662Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h1 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h1&gt;
+&lt;h2 id=&quot;问题-b-华容道huarong&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#问题-b-华容道huarong&quot;&gt;&lt;/a&gt; 问题 B: 华容道(huarong)&lt;/h2&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022绍兴小学-----问题 A: 分组(group) 题解</title>
+    <link href="https://xys-blog.cf/posts/866924548/"/>
+    <id>https://xys-blog.cf/posts/866924548/</id>
+    <published>2022-07-09T10:59:16.000Z</published>
+    <updated>2022-07-09T11:24:52.667Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h1 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h1&gt;
+&lt;h2 id=&quot;问题-a-分组group&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#问题-a-分组group&quot;&gt;&lt;/a&gt; 问题 A: 分组(group)&lt;/h2&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>水壶(NOI Online3 lfw数据) 题解</title>
@@ -399,46 +439,6 @@
     <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
     
     <category term="luo&#39;s OJ" scheme="https://xys-blog.cf/tags/luo-s-OJ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谢言射教你用hexo+github搭建博客（简约版）</title>
-    <link href="https://xys-blog.cf/posts/3893026529/"/>
-    <id>https://xys-blog.cf/posts/3893026529/</id>
-    <published>2022-05-03T07:28:15.000Z</published>
-    <updated>2022-05-03T08:41:17.951Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
-&lt;h2 id=&quot;或许有人会问为什么是用github而不用coding和gitee呢因为coding已经改版貌似不支持静态页面了gitee使用又很麻烦要充钱还要实名认证最后还是选了github&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#或许有人会问为什么是用github而不用coding和gitee呢因为coding已经改版貌似不支持静态页面了gitee使用又很麻烦要充钱还要实名认证最后还是选了github&quot;&gt;&lt;/a&gt; 或许有人会问，为什么是用github而不用coding和gitee呢？因为coding已经改版，貌似不支持静态页面了，gitee使用又很麻烦（要充钱），还要实名认证，最后还是选了github。&lt;/h2&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="https://xys-blog.cf/tags/hexo/"/>
-    
-    <category term="github" scheme="https://xys-blog.cf/tags/github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谢言射教你用hexo+github搭建博客（3.主题更换）</title>
-    <link href="https://xys-blog.cf/posts/3200579984/"/>
-    <id>https://xys-blog.cf/posts/3200579984/</id>
-    <published>2022-05-02T10:23:57.000Z</published>
-    <updated>2022-05-03T07:32:32.001Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h2&gt;
-&lt;p&gt;基于&lt;a href=&quot;https://xys-blog.cf/posts/3031762228/&quot;&gt;第二章的准备工作&lt;/a&gt;，现在更换博客主题&lt;/p&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="hexo" scheme="https://xys-blog.cf/tags/hexo/"/>
-    
-    <category term="github" scheme="https://xys-blog.cf/tags/github/"/>
     
   </entry>
   
