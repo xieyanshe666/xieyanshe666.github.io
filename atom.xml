@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-07-11T11:34:57.346Z</updated>
+  <updated>2022-07-14T06:25:48.960Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022绍兴小学-----问题 D: 三角形(triangle) 题解</title>
+    <link href="https://xys-blog.cf/posts/195994566/"/>
+    <id>https://xys-blog.cf/posts/195994566/</id>
+    <published>2022-07-14T05:58:40.000Z</published>
+    <updated>2022-07-14T06:25:48.960Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h1 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h1&gt;
+&lt;h2 id=&quot;问题-d-三角形triangle&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#问题-d-三角形triangle&quot;&gt;&lt;/a&gt; 问题 D: 三角形(triangle)&lt;/h2&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022绍兴小学-----问题 C: 美感(beautiful) 题解</title>
+    <link href="https://xys-blog.cf/posts/830323511/"/>
+    <id>https://xys-blog.cf/posts/830323511/</id>
+    <published>2022-07-14T05:57:39.000Z</published>
+    <updated>2022-07-14T06:07:20.611Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h1 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h1&gt;
+&lt;h2 id=&quot;问题-c-美感beautiful&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#问题-c-美感beautiful&quot;&gt;&lt;/a&gt; 问题 C: 美感(beautiful)&lt;/h2&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title>想不出写什么了，给你们出道题吧1</title>
@@ -389,51 +429,6 @@
     <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
     
     <category term="FYOJ" scheme="https://xys-blog.cf/tags/FYOJ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Bear and Finding Criminals题解</title>
-    <link href="https://xys-blog.cf/posts/2949852796/"/>
-    <id>https://xys-blog.cf/posts/2949852796/</id>
-    <published>2022-05-11T11:59:14.000Z</published>
-    <updated>2022-05-14T06:08:34.538Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h2&gt;
-&lt;h3 id=&quot;bear-and-finding-criminals&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#bear-and-finding-criminals&quot;&gt;&lt;/a&gt; Bear and Finding Criminals&lt;/h3&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
-    
-    <category term="FYOJ" scheme="https://xys-blog.cf/tags/FYOJ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客附件使用说明</title>
-    <link href="https://xys-blog.cf/posts/4122137359/"/>
-    <id>https://xys-blog.cf/posts/4122137359/</id>
-    <published>2022-05-03T09:33:41.000Z</published>
-    <updated>2022-05-03T09:51:33.853Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="附件" scheme="https://xys-blog.cf/tags/%E9%99%84%E4%BB%B6/"/>
     
   </entry>
   
