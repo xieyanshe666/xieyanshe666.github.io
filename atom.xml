@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-07-17T08:15:00.874Z</updated>
+  <updated>2022-07-20T06:05:55.796Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想不出写什么了，给你们出道题吧2</title>
+    <link href="https://xys-blog.cf/posts/2031153127/"/>
+    <id>https://xys-blog.cf/posts/2031153127/</id>
+    <published>2022-07-20T06:00:07.000Z</published>
+    <updated>2022-07-20T06:05:55.796Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;草原上有100头狮子和1只羊，已知&lt;br&gt;
+（1）狮子和羊都可以以食草为生&lt;br&gt;
+（2）比起草来狮子更爱羊肉的鲜美&lt;br&gt;
+（3）但哪头狮子如果吃了羊自己就会变成羊&lt;br&gt;
+（4）狮子们都很聪明，会逻辑推理&lt;br&gt;
+（5）狮子之间不能沟通&lt;/p&gt;
+&lt;p&gt;问：假如其中一头狮子看见了羊，他会不会去吃羊？&lt;/p&gt;
+&lt;p&gt;（答案见下期）&lt;/p&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="逻辑推理" scheme="https://xys-blog.cf/tags/%E9%80%BB%E8%BE%91%E6%8E%A8%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>分享几道关于绝对值的题</title>
@@ -411,28 +435,6 @@
     
     
     <category term="公告" scheme="https://xys-blog.cf/tags/%E5%85%AC%E5%91%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Bear and Three Balls题解</title>
-    <link href="https://xys-blog.cf/posts/3224990952/"/>
-    <id>https://xys-blog.cf/posts/3224990952/</id>
-    <published>2022-05-11T12:47:25.000Z</published>
-    <updated>2022-05-14T06:08:22.201Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目&quot;&gt;&lt;/a&gt; 题目&lt;/h2&gt;
-&lt;h3 id=&quot;bear-and-three-balls&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#bear-and-three-balls&quot;&gt;&lt;/a&gt; Bear and Three Balls&lt;/h3&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="题解" scheme="https://xys-blog.cf/tags/%E9%A2%98%E8%A7%A3/"/>
-    
-    <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
-    
-    <category term="FYOJ" scheme="https://xys-blog.cf/tags/FYOJ/"/>
     
   </entry>
   
