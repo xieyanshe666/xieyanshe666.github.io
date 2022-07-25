@@ -53,6 +53,29 @@
       </tags>
   </entry>
   <entry>
+    <title>想不出写什么了，给你们出道题吧3</title>
+    <url>/posts/236445553/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class=".article-gallery"><p>某种药方要求非常严格，你每天需要同时服用A、B两种药片各一颗，不能多也不能少。这种药非常贵，你不希望有任何一点的浪费。一天，你打开装药片A的药瓶，倒出一粒药片放在手心；然后打开另一个药瓶，但不小心倒出了两粒药片。现在，你手心上有一颗药片A，两颗药片B，并且你无法区别哪个是A，哪个是B。你如何才能严格遵循药方服用药片，并且不能有任何的浪费？</p>
+<p>（答案见下期）</p>
+<span id="more"></span>
+<p>上期答案：<br>
+不会。<br>
+一只狮子和一只羊的时候，毫无疑问该吃。<br>
+两只狮子和一只羊的时候，毫无疑问是不该吃的。<br>
+三只狮子和一只羊的时候，该吃。（如果其中有一只吃了，就变成羊了，那就回到两只狮子的情况，所以吃羊的狮子必定不被吃！）<br>
+四只狮子和一只羊的时候，不该吃（吃了就一定被吃）<br>
+所以是偶数不吃，奇数吃</p>
+</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+        var options = {
+            selector: '.gallery-item'
+        };
+        lightGallery(document.getElementsByClassName('.article-gallery')[0], options);
+        }</script>]]></content>
+      <tags>
+        <tag>逻辑推理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>想不出写什么了，给你们出道题吧2</title>
     <url>/posts/2031153127/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class=".article-gallery"><p>草原上有100头狮子和1只羊，已知<br>

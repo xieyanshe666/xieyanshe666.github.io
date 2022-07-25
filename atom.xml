@@ -6,7 +6,7 @@
   <link href="https://xys-blog.cf/atom.xml" rel="self"/>
   
   <link href="https://xys-blog.cf/"/>
-  <updated>2022-07-20T06:05:55.796Z</updated>
+  <updated>2022-07-25T05:30:58.358Z</updated>
   <id>https://xys-blog.cf/</id>
   
   <author>
@@ -17,11 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>想不出写什么了，给你们出道题吧3</title>
+    <link href="https://xys-blog.cf/posts/236445553/"/>
+    <id>https://xys-blog.cf/posts/236445553/</id>
+    <published>2022-07-25T05:26:38.000Z</published>
+    <updated>2022-07-25T05:30:58.358Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;某种药方要求非常严格，你每天需要同时服用A、B两种药片各一颗，不能多也不能少。这种药非常贵，你不希望有任何一点的浪费。一天，你打开装药片A的药瓶，倒出一粒药片放在手心；然后打开另一个药瓶，但不小心倒出了两粒药片。现在，你手心上有一颗药片A，两颗药片B，并且你无法区别哪个是A，哪个是B。你如何才能严格遵循药方服用药片，并且不能有任何的浪费？&lt;/p&gt;
+&lt;p&gt;（答案见下期）&lt;/p&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="逻辑推理" scheme="https://xys-blog.cf/tags/%E9%80%BB%E8%BE%91%E6%8E%A8%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>想不出写什么了，给你们出道题吧2</title>
     <link href="https://xys-blog.cf/posts/2031153127/"/>
     <id>https://xys-blog.cf/posts/2031153127/</id>
     <published>2022-07-20T06:00:07.000Z</published>
-    <updated>2022-07-20T06:05:55.796Z</updated>
+    <updated>2022-07-20T06:07:33.521Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;草原上有100头狮子和1只羊，已知&lt;br&gt;
@@ -418,23 +436,6 @@
     <category term="c++" scheme="https://xys-blog.cf/tags/c/"/>
     
     <category term="FYOJ" scheme="https://xys-blog.cf/tags/FYOJ/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>公告栏</title>
-    <link href="https://xys-blog.cf/posts/1528610346/"/>
-    <id>https://xys-blog.cf/posts/1528610346/</id>
-    <published>2022-05-12T10:55:47.000Z</published>
-    <updated>2022-06-29T01:50:08.035Z</updated>
-    
-    
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;Hi~ 毕业考结束了，我又回来维护博客了！&lt;/p&gt;&lt;/div&gt;</summary>
-    
-    
-    
-    
-    <category term="公告" scheme="https://xys-blog.cf/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
